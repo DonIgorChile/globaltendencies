@@ -1,0 +1,35 @@
+{
+ "name": "Global Tendencies",
+ "short_name": "Global Tendencies",
+ "description": "Radar diario de riesgos globales en 1 minuto",
+ "start_url": "/",
+ "scope": "/",
+ "display": "standalone",
+ "background_color": "#08131F",
+ "theme_color": "#08131F",
+ "icons": [
+  {
+   "src": "icons/icon_192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon_512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon_512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "id": "/",
+ "lang": "es",
+ "categories": [
+  "news",
+  "business"
+ ]
+}
