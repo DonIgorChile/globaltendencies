@@ -109,6 +109,9 @@ footer{padding-top:24px;display:flex;flex-direction:column;gap:10px;font-size:.8
 .gloss dl{margin:0;display:grid;grid-template-columns:max-content 1fr;gap:6px 14px;font-size:.92rem}
 .gloss dt{font-family:var(--mono);font-weight:600}
 .gloss dd{margin:0;color:var(--ink)}
+.yt{margin:6px 0 16px;display:flex;flex-direction:column;align-items:flex-start;gap:10px}
+.yt iframe{width:min(100%,340px);aspect-ratio:9/16;height:auto;border:1px solid var(--rule);border-radius:12px;background:#000}
+.yt-cap{display:flex;flex-wrap:wrap;gap:8px}
 @keyframes rise{from{transform:translateY(6px)}to{transform:none}}
 </style>
 </head>
@@ -180,6 +183,8 @@ const T={
   disc:"本内容为基于各雷达所引用公开来源的风险情报信息，不构成投资建议或医疗建议。"}
 };
 for(const k in ADD) Object.assign(T[k],ADD[k]);
+const SUB={pt:["Inscrever-se no canal","Abrir no YouTube"],es:["Suscribirse al canal","Abrir en YouTube"],en:["Subscribe to the channel","Open on YouTube"],zh:["订阅频道","在 YouTube 打开"]};
+for(const k in SUB){T[k].sub=SUB[k][0];T[k].yt=SUB[k][1];}
 const ORDER=["geo","health","logistics"];
 let DATA=null, lang="en", idx=0;
 // Idioma: escolha salva > idioma do aparelho (pt/es/zh) > ingles
@@ -214,12 +219,16 @@ function render(){
     const s=el("section","radar"); s.id=k; s.style.setProperty("--lv",`var(--r${r.level})`);
     const h=el("div","r-head"); h.append(el("span","r-kicker",t.r[k]),el("span","chip",`${t.risk}: ${t.lv[r.level]}`)); s.append(h);
     s.append(el("h2",null,c.title));
-    if(ed.videos&&ed.videos[k]){const v=el("a","btn ghost vid",t.vid); v.href="https://www.youtube.com/shorts/"+ed.videos[k]; v.target="_blank"; v.rel="noopener"; s.append(v);}
     const ul=el("ul","facts"); c.bullets.forEach(x=>ul.append(el("li",null,x))); s.append(ul);
     const hz=el("div","horizons");
     [[t.short,c.short],[t.medium,c.medium]].forEach(([l,v])=>{const d=el("div","h"); d.append(el("p","h-label",l),el("p",null,v)); hz.append(d);}); s.append(hz);
     const ac=el("div","action"); ac.append(el("p","h-label",t.act[k]),el("p",null,c.action)); s.append(ac);
     const se=el("div","sectors"); se.append(el("span","lbl",t.sec)); c.sectors.forEach(x=>se.append(el("span","s",x))); s.append(se);
+    if(ed.videos&&ed.videos[k]){const id=ed.videos[k]; const f=el("figure","yt");
+      const fr=document.createElement("iframe"); fr.src="https://www.youtube-nocookie.com/embed/"+id+"?rel=0&playsinline=1";
+      fr.title=t.r[k]+" · video"; fr.loading="lazy"; fr.allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share"; fr.allowFullscreen=true; fr.referrerPolicy="strict-origin-when-cross-origin";
+      f.append(fr); const cap=el("figcaption","yt-cap"); const sub=el("a","btn",t.sub); sub.href="https://www.youtube.com/@IgorIdasEVindas?sub_confirmation=1"; sub.target="_blank"; sub.rel="noopener";
+      const yt=el("a","btn ghost",t.yt); yt.href="https://www.youtube.com/shorts/"+id; yt.target="_blank"; yt.rel="noopener"; cap.append(sub,yt); f.append(cap); s.append(f);}
     const src=(ed.sources||[]).filter(x=>x.radar===k);
     if(src.length){const d=el("details"); d.append(el("summary",null,`${t.src} (${src.length})`)); const ol=el("ol");
       src.forEach(x=>{const li=el("li"); const a=el("a",null,x.title); a.href=x.url; a.target="_blank"; a.rel="noopener"; li.append(a); ol.append(li);}); d.append(ol); s.append(d);}
