@@ -241,9 +241,31 @@ function render(){
 document.querySelectorAll(".langs button").forEach(b=>b.addEventListener("click",()=>{lang=b.dataset.l; try{localStorage.setItem("mt-lang",lang)}catch(e){} render();}));
 let deferred=null;
 window.addEventListener("beforeinstallprompt",e=>{e.preventDefault();deferred=e;});
+const UA=navigator.userAgent||"";
+const IOS=/iPad|iPhone|iPod/.test(UA)||(navigator.platform==="MacIntel"&&navigator.maxTouchPoints>1);
+const INAPP=/LinkedInApp|FBAN|FBAV|Instagram|Line\/|MicroMessenger|WhatsApp|TikTok|Twitter|GSA\//i.test(UA);
+const STANDALONE=matchMedia("(display-mode: standalone)").matches||navigator.standalone===true;
+const IH={
+ pt:{inapp:"Você abriu o app dentro de outro aplicativo (LinkedIn, WhatsApp, Instagram…), que não permite instalar. Toque em <b>⋯ › Abrir no navegador</b> (Safari no iPhone, Chrome no Android) ou copie o link e cole no navegador.",copy:"Copiar link",ios:"<p><b>iPhone/iPad:</b> no Safari, toque em <b>Compartilhar</b> (quadrado com seta para cima) › role para baixo › <b>Adicionar à Tela de Início</b> › <b>Adicionar</b>.</p>",and:"<p><b>Android (Chrome):</b> menu <b>⋮</b> › <b>Instalar app</b> ou <b>Adicionar à tela inicial</b>.</p>",desk:"<p><b>Computador (Chrome/Edge):</b> ícone de instalar no fim da barra de endereço, ou menu <b>⋮</b> › <b>Transmitir, salvar e compartilhar › Instalar</b>.</p>",done:"O Global Tendencies já está instalado neste aparelho."},
+ es:{inapp:"Abriste la app dentro de otra aplicación (LinkedIn, WhatsApp, Instagram…), que no permite instalar. Toca <b>⋯ › Abrir en el navegador</b> (Safari en iPhone, Chrome en Android) o copia el enlace y pégalo en el navegador.",copy:"Copiar enlace",ios:"<p><b>iPhone/iPad:</b> en Safari, toca <b>Compartir</b> (cuadrado con flecha hacia arriba) › baja › <b>Agregar a inicio</b> › <b>Agregar</b>.</p>",and:"<p><b>Android (Chrome):</b> menú <b>⋮</b> › <b>Instalar app</b> o <b>Agregar a la pantalla principal</b>.</p>",desk:"<p><b>Computador (Chrome/Edge):</b> ícono de instalar al final de la barra de direcciones, o menú <b>⋮</b> › <b>Transmitir, guardar y compartir › Instalar</b>.</p>",done:"Global Tendencies ya está instalada en este dispositivo."},
+ en:{inapp:"You opened the app inside another app (LinkedIn, WhatsApp, Instagram…), which can't install it. Tap <b>⋯ › Open in browser</b> (Safari on iPhone, Chrome on Android) or copy the link and paste it in your browser.",copy:"Copy link",ios:"<p><b>iPhone/iPad:</b> in Safari, tap <b>Share</b> (square with up arrow) › scroll down › <b>Add to Home Screen</b> › <b>Add</b>.</p>",and:"<p><b>Android (Chrome):</b> menu <b>⋮</b> › <b>Install app</b> or <b>Add to Home screen</b>.</p>",desk:"<p><b>Computer (Chrome/Edge):</b> install icon at the end of the address bar, or menu <b>⋮</b> › <b>Cast, save and share › Install</b>.</p>",done:"Global Tendencies is already installed on this device."},
+ zh:{inapp:"您在其他应用（领英、WhatsApp、微信等）内打开了本页，无法安装。请点击 <b>⋯ › 在浏览器中打开</b>（iPhone 用 Safari，安卓用 Chrome），或复制链接到浏览器打开。",copy:"复制链接",ios:"<p><b>iPhone/iPad：</b>在 Safari 中点击<b>分享</b> › 向下滑动 › <b>添加到主屏幕</b> › <b>添加</b>。</p>",and:"<p><b>安卓（Chrome）：</b>菜单 <b>⋮</b> › <b>安装应用</b>。</p>",desk:"<p><b>电脑（Chrome/Edge）：</b>点击地址栏末尾的安装图标。</p>",done:"Global Tendencies 已安装在此设备上。"}};
+function helpHTML(){const x=IH[lang];
+  if(STANDALONE) return "<p>"+x.done+"</p>";
+  if(INAPP) return "<p>"+x.inapp+"</p><p><button type='button' class='btn ghost' id='b-copy'>"+x.copy+"</button></p>";
+  if(IOS) return x.ios;
+  if(/Android/i.test(UA)) return x.and;
+  return x.desk;}
+if(STANDALONE) $("b-inst").hidden=true;
+window.addEventListener("appinstalled",()=>{$("b-inst").hidden=true;$("help").hidden=true;});
 $("b-inst").addEventListener("click",async()=>{
-  if(deferred){deferred.prompt(); try{await deferred.userChoice;}catch(e){} deferred=null; return;}
-  const h=$("help"); h.innerHTML=T[lang].hi; h.hidden=!h.hidden;});
+  const h=$("help");
+  if(deferred&&!INAPP){const d=deferred; deferred=null;
+    try{await d.prompt(); const c=await d.userChoice; if(c&&c.outcome==="accepted"){h.hidden=true;return;}}catch(e){}}
+  h.innerHTML=helpHTML(); h.hidden=false; h.scrollIntoView({block:"nearest",behavior:"smooth"});
+  const cp=document.getElementById("b-copy");
+  if(cp) cp.addEventListener("click",async()=>{const u=location.href.split("#")[0];
+    try{await navigator.clipboard.writeText(u); cp.textContent=T[lang].copied;}catch(e){window.prompt("",u);}});});
 $("b-share").addEventListener("click",async()=>{
   const url=location.href.split("#")[0], msg=T[lang].msg;
   if(navigator.share){try{await navigator.share({title:"Global Tendencies",text:msg,url});return;}catch(e){}}
