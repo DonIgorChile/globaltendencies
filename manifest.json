@@ -1,7 +1,7 @@
 {
  "name": "Global Tendencies",
  "short_name": "Global Tendencies",
- "description": "Radar diario de riesgos globales en 1 minuto",
+ "description": "Radar diario de riesgos globales en 1 minuto: geopolítica, salud global y logística/energía, con impacto en América Latina. PT · ES · EN · 中文.",
  "start_url": "/",
  "scope": "/",
  "display": "standalone",
@@ -11,7 +11,8 @@
   {
    "src": "icons/icon_192.png",
    "sizes": "192x192",
-   "type": "image/png"
+   "type": "image/png",
+   "purpose": "any"
   },
   {
    "src": "icons/icon_512.png",
@@ -20,7 +21,13 @@
    "purpose": "any"
   },
   {
-   "src": "icons/icon_512.png",
+   "src": "icons/icon_maskable_192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "maskable"
+  },
+  {
+   "src": "icons/icon_maskable_512.png",
    "sizes": "512x512",
    "type": "image/png",
    "purpose": "maskable"
@@ -30,6 +37,32 @@
  "lang": "es",
  "categories": [
   "news",
-  "business"
+  "business",
+  "productivity"
+ ],
+ "dir": "ltr",
+ "orientation": "portrait",
+ "screenshots": [
+  {
+   "src": "icons/shot_mobile1.jpg",
+   "sizes": "1080x1920",
+   "type": "image/jpeg",
+   "form_factor": "narrow",
+   "label": "Radar del día"
+  },
+  {
+   "src": "icons/shot_mobile2.jpg",
+   "sizes": "1080x1920",
+   "type": "image/jpeg",
+   "form_factor": "narrow",
+   "label": "Radar geopolítico"
+  },
+  {
+   "src": "icons/shot_wide.jpg",
+   "sizes": "1280x720",
+   "type": "image/jpeg",
+   "form_factor": "wide",
+   "label": "Global Tendencies en el computador"
+  }
  ]
 }
