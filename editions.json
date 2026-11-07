@@ -330,7 +330,12 @@
      "title": "ECDC — Ebola disease outbreak, Bundibugyo virus (6/11/2026)",
      "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026/2026-11-06"
     }
-   ]
+   ],
+   "videos": {
+    "geo": "jQ-bJtEM5IQ",
+    "health": "jg_HSG9dZBQ",
+    "logistics": "rHyzGzM9dRo"
+   }
   },
   {
    "date": "2026-11-06",
