@@ -1,6 +1,338 @@
 {
  "editions": [
   {
+   "date": "2026-11-07",
+   "number": 10,
+   "radars": {
+    "geo": {
+     "level": 4,
+     "pt": {
+      "title": "EUA confirmam novos ataques \"pontuais\" na ilha iraniana de Qeshm enquanto o Catar nega que as negociações tenham fracassado; Ormuz segue com incidentes em petroleiros",
+      "bullets": [
+       "6/11: Trump confirmou ataques americanos \"menores\" contra defesas aéreas na ilha de Qeshm, os primeiros desde as eleições legislativas de 3/11; a mídia estatal iraniana fala em dois ataques com mísseis na área de Suza e em um drone MQ-9 abatido (Al Jazeera, 7/11).",
+       "7/11: o porta-voz do Catar, Majed al-Ansari, rejeitou os relatos de que as conversas fracassaram; Trump disse que \"eles querem fechar um acordo\" e que houve \"muito progresso\", sem detalhes. Nenhum acordo foi anunciado.",
+       "3/11: Mohsen Rezaei, do Conselho de Segurança do Irã, chamou a resposta dos EUA de \"não convincente\" e disse que Ormuz só reabre se as sete condições de Teerã forem atendidas (Al Jazeera, 4/11).",
+       "Mar: a Guarda Revolucionária afirmou em 4/11 que quatro petroleiros foram destruídos ao atingir minas em faixa proibida ao sul de Ormuz; o UKMTO registrou projéteis contra um petroleiro a 14 milhas náuticas de Limah, Omã (3/11), e um dhow de tripulação indiana foi atacado, com um marinheiro morto (CBS, 3/11).",
+       "4/11: autoridades do Pentágono disseram ao New York Times que milhares de militares americanos aguardam ordem para retomar o combate em grande escala; o CENTCOM ofereceu até US$ 20 milhões por informações sobre o programa nuclear iraniano."
+      ],
+      "short": "Risco crítico: ataques limitados e mediação do Catar correm em paralelo, e uma decisão de Washington pode levar a acordo ou a nova escalada.",
+      "medium": "Um acordo reabriria Ormuz gradualmente e aliviaria petróleo, seguros e GNL; uma retomada do combate em grande escala reverteria a queda recente do petróleo.",
+      "action": "Acompanhar a resposta americana à proposta iraniana, novos incidentes com minas em Ormuz e qualquer sinal de ofensiva em grande escala.",
+      "sectors": [
+       "Energia",
+       "Transporte marítimo",
+       "Seguros",
+       "GNL",
+       "Fertilizantes"
+      ]
+     },
+     "es": {
+      "title": "EE. UU. confirma nuevos ataques \"menores\" en la isla iraní de Qeshm mientras Catar niega que las negociaciones hayan fracasado; Ormuz sigue con incidentes en petroleros",
+      "bullets": [
+       "6/11: Trump confirmó ataques estadounidenses \"menores\" contra defensas antiaéreas en la isla de Qeshm, los primeros desde las elecciones legislativas del 3/11; medios estatales iraníes hablan de dos ataques con misiles en la zona de Suza y de un dron MQ-9 derribado (Al Jazeera, 7/11).",
+       "7/11: el vocero de Catar, Majed al-Ansari, rechazó los reportes de que las conversaciones fracasaron; Trump dijo que \"quieren hacer un acuerdo\" y que hubo \"mucho progreso\", sin detalles. No se ha anunciado ningún acuerdo.",
+       "3/11: Mohsen Rezaei, del Consejo de Seguridad de Irán, calificó la respuesta de EE. UU. de \"no convincente\" y dijo que Ormuz solo reabre si se cumplen las siete condiciones de Teherán (Al Jazeera, 4/11).",
+       "Mar: la Guardia Revolucionaria afirmó el 4/11 que cuatro petroleros fueron destruidos al golpear minas en un carril prohibido al sur de Ormuz; el UKMTO registró proyectiles contra un petrolero a 14 millas náuticas de Limah, Omán (3/11), y un dhow con tripulación india fue atacado, con un marino muerto (CBS, 3/11).",
+       "4/11: funcionarios del Pentágono dijeron al New York Times que miles de militares estadounidenses esperan la orden de reanudar el combate a gran escala; el CENTCOM ofreció hasta US$ 20 millones por información sobre el programa nuclear iraní."
+      ],
+      "short": "Riesgo crítico: ataques limitados y mediación de Catar avanzan en paralelo; una decisión de Washington puede llevar a un acuerdo o a una nueva escalada.",
+      "medium": "Un acuerdo reabriría Ormuz de forma gradual y aliviaría petróleo, seguros y GNL; una reanudación del combate a gran escala revertiría la caída reciente del petróleo.",
+      "action": "Seguir la respuesta de EE. UU. a la propuesta iraní, nuevos incidentes con minas en Ormuz y cualquier señal de ofensiva a gran escala.",
+      "sectors": [
+       "Energía",
+       "Transporte marítimo",
+       "Seguros",
+       "GNL",
+       "Fertilizantes"
+      ]
+     },
+     "en": {
+      "title": "US confirms new \"minor\" strikes on Iran's Qeshm island as Qatar denies talks have failed; tanker incidents continue in Hormuz",
+      "bullets": [
+       "6 Nov: Trump confirmed \"minor\" US strikes on air defences on Qeshm island, the first since the 3 Nov midterms; Iranian state media reported two missile strikes in the Suza area and an MQ-9 drone shot down (Al Jazeera, 7 Nov).",
+       "7 Nov: Qatar's spokesman Majed al-Ansari dismissed reports that the talks had failed; Trump said \"they want to make a deal\" and cited \"a lot of progress\", with no details. No deal has been announced.",
+       "3 Nov: Mohsen Rezaei of Iran's Supreme National Security Council called the US reply \"not convincing\" and said Hormuz reopens only if Tehran's seven conditions are met (Al Jazeera, 4 Nov).",
+       "At sea: the IRGC said on 4 Nov that four tankers were destroyed after hitting mines in a prohibited lane south of Hormuz; UKMTO logged projectiles hitting a tanker 14 nm NE of Limah, Oman (3 Nov), and an Indian-crewed dhow was attacked, killing one seafarer (CBS, 3 Nov).",
+       "4 Nov: Pentagon officials told the New York Times that thousands of US troops are poised to resume major combat; CENTCOM offered up to $20 million for information on Iran's nuclear programme."
+      ],
+      "short": "Critical risk: limited strikes and Qatari mediation run in parallel, and a decision in Washington could bring a deal or a new escalation.",
+      "medium": "A deal would gradually reopen Hormuz and ease oil, insurance and LNG; a return to large-scale combat would reverse the recent oil drop.",
+      "action": "Watch the US reply to Iran's proposal, new mine incidents in Hormuz and any sign of a large-scale offensive.",
+      "sectors": [
+       "Energy",
+       "Shipping",
+       "Insurance",
+       "LNG",
+       "Fertilizers"
+      ]
+     },
+     "zh": {
+      "title": "美国确认再次\"小规模\"打击伊朗盖什姆岛，卡塔尔否认谈判破裂；霍尔木兹海峡油轮事件持续",
+      "bullets": [
+       "11月6日：特朗普确认美军对盖什姆岛防空设施实施\"小规模\"打击，这是11月3日中期选举后的首次；伊朗官方媒体称苏扎地区遭两次导弹袭击，并击落一架MQ-9无人机（半岛电视台，11月7日）。",
+       "11月7日：卡塔尔外交部发言人马吉德·安萨里驳斥谈判破裂的报道；特朗普称\"他们想达成协议\"并称\"取得很多进展\"，未给细节。目前尚未宣布任何协议。",
+       "11月3日：伊朗最高国家安全委员会秘书雷扎伊称美方回应\"没有说服力\"，只有满足德黑兰的七项条件，霍尔木兹才会重新开放（半岛电视台，11月4日）。",
+       "海上：革命卫队11月4日称四艘油轮在霍尔木兹以南禁航航道触雷被毁；英国海事贸易行动办公室记录到11月3日一艘油轮在阿曼利马赫东北14海里处被弹丸击中，一艘印度籍船员的独桅帆船遇袭，一名船员死亡（CBS，11月3日）。",
+       "11月4日：五角大楼官员对《纽约时报》称，数千名美军待命，随时可恢复大规模作战；美军中央司令部悬赏最高2000万美元征集伊朗核计划信息。"
+      ],
+      "short": "风险极高：有限打击与卡塔尔斡旋同时进行，华盛顿的决定可能带来协议，也可能导致新一轮升级。",
+      "medium": "达成协议将逐步重开霍尔木兹，缓解石油、保险和液化天然气压力；若恢复大规模作战，近期油价回落将被逆转。",
+      "action": "关注美方对伊朗提案的回应、霍尔木兹的新水雷事件以及任何大规模进攻的迹象。",
+      "sectors": [
+       "能源",
+       "海运",
+       "保险",
+       "液化天然气",
+       "化肥"
+      ]
+     }
+    },
+    "health": {
+     "level": 3,
+     "pt": {
+      "title": "Sarampo volta a crescer em vários continentes: Bangladesh passa de 235 mil casos suspeitos e 1.167 mortes, o México soma 13.645 casos e os EUA 4.852; a OMS alerta para febre amarela em nove países africanos",
+      "bullets": [
+       "Sarampo, Bangladesh — EM CRESCIMENTO: 235.475 casos suspeitos, 24.219 confirmados em laboratório e 1.167 mortes suspeitas ou confirmadas até 5/11 (Direção-Geral de Serviços de Saúde, via ECDC, 6/11).",
+       "Sarampo nas Américas — EM CRESCIMENTO: México, 13.645 casos confirmados e 23 mortes em 2026 até 3/11; EUA, 4.852 casos confirmados em 47 jurisdições até 30/10; Canadá, 1.125 casos até 2/11. Na Europa (UE/EEE), 2.325 casos em 12 meses até setembro (ECDC).",
+       "Febre amarela, África — EM CRESCIMENTO: a OMS (6/11) registra 67 casos confirmados e 18 mortes em nove países entre 1/1 e 12/10, com Costa do Marfim (30 casos, 10 mortes) e Burkina Faso (15 casos, 3 mortes) à frente; risco regional moderado e global baixo.",
+       "Gripe aviária — SOB VIGILÂNCIA: H5N1 com mais dois casos humanos no condado de Yakima (Washington, EUA) até 1/11, que soma 3 casos e uma morte, todos com contato com gado infectado; H9N2 com 4 novos casos humanos na China, todos com contato com aves (ECDC, 3 e 4/11).",
+       "Também em alta: dengue passa de 2,5 milhões de casos e mil mortes no mundo em 2026 (ECDC, 5/11); Nilo Ocidental soma 1.668 casos nos EUA (CDC). O Ebola na RD Congo chega a 10.741 casos confirmados e 5.230 mortes até 5/11 (ECDC)."
+      ],
+      "short": "O sarampo é o risco do dia: é muito contagioso e circula ao mesmo tempo na Ásia, nas Américas e na Europa, onde há gente sem vacina.",
+      "medium": "Com viagens de fim de ano, cresce a chance de casos importados. A febre amarela pede vacinação antes de ir a áreas de mata na África e na América do Sul.",
+      "action": "Na região afetada: confirme duas doses da vacina tríplice viral (sarampo), evite contato com pessoas com febre e manchas na pele e procure atendimento se tiver esses sintomas. Longe dela: revise a carteira de vacinação da família antes de viajar, vacine-se contra a febre amarela se for a áreas de risco e evite contato com aves ou gado doentes.",
+      "sectors": [
+       "Aviação",
+       "Turismo",
+       "Saúde",
+       "Educação",
+       "Agropecuária"
+      ]
+     },
+     "es": {
+      "title": "El sarampión vuelve a crecer en varios continentes: Bangladés supera 235 mil casos sospechosos y 1.167 muertes, México suma 13.645 casos y EE.UU. 4.852; la OMS alerta por fiebre amarilla en nueve países africanos",
+      "bullets": [
+       "Sarampión, Bangladés — EN AUMENTO: 235.475 casos sospechosos, 24.219 confirmados por laboratorio y 1.167 muertes sospechosas o confirmadas al 5/11 (Dirección General de Servicios de Salud, vía ECDC, 6/11).",
+       "Sarampión en las Américas — EN AUMENTO: México, 13.645 casos confirmados y 23 muertes en 2026 al 3/11; EE.UU., 4.852 casos confirmados en 47 jurisdicciones al 30/10; Canadá, 1.125 casos al 2/11. En Europa (UE/EEE), 2.325 casos en 12 meses hasta septiembre (ECDC).",
+       "Fiebre amarilla, África — EN AUMENTO: la OMS (6/11) registra 67 casos confirmados y 18 muertes en nueve países entre el 1/1 y el 12/10, con Costa de Marfil (30 casos, 10 muertes) y Burkina Faso (15 casos, 3 muertes) a la cabeza; riesgo regional moderado y global bajo.",
+       "Gripe aviar — BAJO VIGILANCIA: H5N1 con dos casos humanos más en el condado de Yakima (Washington, EE.UU.) al 1/11, que suma 3 casos y una muerte, todos con contacto con ganado infectado; H9N2 con 4 nuevos casos humanos en China, todos con contacto con aves (ECDC, 3 y 4/11).",
+       "También al alza: el dengue supera 2,5 millones de casos y mil muertes en el mundo en 2026 (ECDC, 5/11); el Nilo Occidental suma 1.668 casos en EE.UU. (CDC). El ébola en RD Congo llega a 10.741 casos confirmados y 5.230 muertes al 5/11 (ECDC)."
+      ],
+      "short": "El sarampión es el riesgo del día: es muy contagioso y circula a la vez en Asia, las Américas y Europa, donde hay personas sin vacunar.",
+      "medium": "Con los viajes de fin de año, crece la probabilidad de casos importados. La fiebre amarilla exige vacunarse antes de ir a zonas selváticas de África y Sudamérica.",
+      "action": "En la zona afectada: confirma dos dosis de la vacuna tres vírica (sarampión), evita el contacto con personas con fiebre y manchas en la piel y consulta si tienes esos síntomas. Lejos de ella: revisa el carnet de vacunas de la familia antes de viajar, vacúnate contra la fiebre amarilla si vas a zonas de riesgo y evita el contacto con aves o ganado enfermos.",
+      "sectors": [
+       "Aviación",
+       "Turismo",
+       "Salud",
+       "Educación",
+       "Agropecuaria"
+      ]
+     },
+     "en": {
+      "title": "Measles is rising again on several continents: Bangladesh passes 235,000 suspected cases and 1,167 deaths, Mexico reports 13,645 cases and the US 4,852; WHO warns of yellow fever in nine African countries",
+      "bullets": [
+       "Measles, Bangladesh — RISING: 235,475 suspected cases, 24,219 laboratory-confirmed and 1,167 suspected or confirmed deaths as of 5 Nov (Directorate General of Health Services, via ECDC, 6 Nov).",
+       "Measles in the Americas — RISING: Mexico, 13,645 confirmed cases and 23 deaths in 2026 as of 3 Nov; US, 4,852 confirmed cases in 47 jurisdictions as of 30 Oct; Canada, 1,125 cases as of 2 Nov. In Europe (EU/EEA), 2,325 cases in the 12 months to September (ECDC).",
+       "Yellow fever, Africa — RISING: WHO (6 Nov) reports 67 confirmed cases and 18 deaths in nine countries between 1 Jan and 12 Oct, led by Côte d'Ivoire (30 cases, 10 deaths) and Burkina Faso (15 cases, 3 deaths); regional risk moderate, global risk low.",
+       "Avian influenza — UNDER WATCH: H5N1 with two more human cases in Yakima County (Washington, US) as of 1 Nov, bringing the county to 3 cases and one death, all exposed to infected cattle; H9N2 with 4 new human cases in China, all exposed to poultry (ECDC, 3 and 4 Nov).",
+       "Also rising: dengue passes 2.5 million cases and 1,000 deaths worldwide in 2026 (ECDC, 5 Nov); West Nile reaches 1,668 cases in the US (CDC). Ebola in DR Congo reaches 10,741 confirmed cases and 5,230 deaths as of 5 Nov (ECDC)."
+      ],
+      "short": "Measles is today's main risk: it is highly contagious and is spreading at the same time in Asia, the Americas and Europe, wherever people are unvaccinated.",
+      "medium": "Year-end travel raises the chance of imported cases. Yellow fever requires vaccination before visiting forest areas in Africa and South America.",
+      "action": "In affected areas: check you have two doses of the MMR (measles) vaccine, avoid contact with people who have fever and a rash, and seek care if you develop these symptoms. Elsewhere: review your family's vaccination cards before travelling, get the yellow fever vaccine if you are going to risk areas, and avoid contact with sick birds or cattle.",
+      "sectors": [
+       "Aviation",
+       "Tourism",
+       "Health",
+       "Education",
+       "Agriculture"
+      ]
+     },
+     "zh": {
+      "title": "麻疹在多个大洲再度上升：孟加拉国疑似病例超过23.5万例、死亡1167例，墨西哥13645例，美国4852例；世卫组织警告非洲九国出现黄热病",
+      "bullets": [
+       "麻疹，孟加拉国——上升：截至11月5日，疑似病例235475例，实验室确诊24219例，疑似或确诊死亡1167例（孟加拉国卫生服务总局，经欧洲疾控中心，11月6日）。",
+       "美洲麻疹——上升：截至11月3日，墨西哥2026年确诊13645例、死亡23例；截至10月30日，美国47个辖区确诊4852例；截至11月2日，加拿大1125例。欧洲（欧盟/欧洲经济区）截至9月的12个月内共2325例（欧洲疾控中心）。",
+       "黄热病，非洲——上升：世卫组织（11月6日）报告，1月1日至10月12日九国确诊67例、死亡18例，以科特迪瓦（30例、10例死亡）和布基纳法索（15例、3例死亡）为首；区域风险中等，全球风险低。",
+       "禽流感——持续关注：截至11月1日，美国华盛顿州亚基马县新增2例H5N1人类病例，该县累计3例、1例死亡，均接触过感染牛群；中国新增4例H9N2人类病例，均有禽类接触史（欧洲疾控中心，11月3日和4日）。",
+       "其他上升：2026年全球登革热超过250万例、死亡逾1000例（欧洲疾控中心，11月5日）；美国西尼罗病毒1668例（美国CDC）。截至11月5日，刚果（金）埃博拉确诊10741例、死亡5230例（欧洲疾控中心）。"
+      ],
+      "short": "麻疹是今天的主要风险：传染性极强，正同时在亚洲、美洲和欧洲未接种人群中传播。",
+      "medium": "年底出行增加，输入病例的可能性上升。前往非洲和南美林区前须接种黄热病疫苗。",
+      "action": "在受影响地区：确认已接种两剂麻腮风疫苗，避免接触发烧和出疹者，出现症状及时就医。在其他地区：出行前检查家人的疫苗接种记录，前往风险地区请接种黄热病疫苗，避免接触患病禽类或牛。",
+      "sectors": [
+       "航空",
+       "旅游",
+       "医疗",
+       "教育",
+       "农牧业"
+      ]
+     }
+    },
+    "logistics": {
+     "level": 3,
+     "pt": {
+      "title": "Brent fecha a US$ 98,32 após queda semanal de mais de 16%, frete global cai 1% para US$ 4.389/FEU e greve de caminhoneiros em San Antonio termina após nove dias",
+      "bullets": [
+       "Petróleo: o Brent fechou a US$ 98,32 em 6/11 e o WTI a US$ 90,83; o Brent caiu mais de 16% na semana e o WTI, quase 13% (CNBC, via FinanceFeeds). A agenda inclui o CPI dos EUA em 10/11 e o relatório mensal da OPEP em 11/11.",
+       "Frete: o WCI da Drewry caiu 1% na semana 45, para US$ 4.389/FEU; Xangai–Los Angeles ficou em US$ 7.539 (estável), Xangai–Nova York em US$ 9.303 (−3%) e Xangai–Roterdã em US$ 3.615 (−2%). A Drewry projeta nova queda no Transpacífico na próxima semana (Drewry, 5/11).",
+       "Portos e rotas: o tempo médio de espera em Xangai caiu para 35 horas; cerca de 60% da capacidade Ásia–Europa já usa Suez, com 53 navios em trânsito na semana, e há risco de congestionamento nos portos europeus. Drewry cita ainda o risco de greve em Los Angeles/Long Beach e a incerteza em Ormuz.",
+       "Chile: a greve dos caminhoneiros em San Antonio terminou em 6/11, após nove dias, com acordo de reajuste de 8% no frete mais ajuste pelo índice de custos de transporte; o porto e a zona industrial voltaram a operar (BioBioChile).",
+       "Cerejas: o primeiro Cherry Express da temporada foi transferido para zarpar de Valparaíso rumo à China; a saída está prevista para segunda-feira, 9/11, e o porto de San Antonio chegou a 90% da capacidade de armazenagem durante a greve (BioBioChile)."
+      ],
+      "short": "O petróleo recuou do pico e o frete global amaina, mas Ormuz segue como o principal fator de reversão; no Chile, o gargalo de San Antonio começa a ser normalizado.",
+      "medium": "Um acordo no Golfo manteria combustível e seguros em queda; um novo choque em Ormuz reverteria a baixa. Para o Pacífico sul-americano, o ritmo de normalização em San Antonio decide prazos nas próximas semanas.",
+      "action": "Monitorar o Brent e o WCI semanais, a normalização das filas em San Antonio e anúncios de GRI e BAF nas rotas Ásia–América do Sul.",
+      "sectors": [
+       "Transporte marítimo",
+       "Energia",
+       "Agroexportação",
+       "Varejo",
+       "Mineração"
+      ]
+     },
+     "es": {
+      "title": "Brent cierra en US$ 98,32 tras caer más de 16% en la semana, el flete global baja 1% a US$ 4.389/FEU y termina el paro de camioneros en San Antonio tras nueve días",
+      "bullets": [
+       "Petróleo: el Brent cerró en US$ 98,32 el 6/11 y el WTI en US$ 90,83; el Brent cayó más de 16% en la semana y el WTI casi 13% (CNBC, vía FinanceFeeds). En la agenda: IPC de EE. UU. el 10/11 e informe mensual de la OPEP el 11/11.",
+       "Flete: el WCI de Drewry bajó 1% en la semana 45, a US$ 4.389/FEU; Shanghái–Los Ángeles quedó en US$ 7.539 (estable), Shanghái–Nueva York en US$ 9.303 (−3%) y Shanghái–Róterdam en US$ 3.615 (−2%). Drewry proyecta otra baja en el Transpacífico la próxima semana (Drewry, 5/11).",
+       "Puertos y rutas: el tiempo medio de espera en Shanghái bajó a 35 horas; cerca de 60% de la capacidad Asia–Europa ya usa Suez, con 53 buques en tránsito en la semana, y hay riesgo de congestión en puertos europeos. Drewry también cita el riesgo de huelga en Los Ángeles/Long Beach y la incertidumbre en Ormuz.",
+       "Chile: el paro de camioneros en San Antonio terminó el 6/11, tras nueve días, con un acuerdo de alza de 8% en la tarifa más un ajuste por el índice de costos del transporte; el puerto y la zona industrial volvieron a operar (BioBioChile).",
+       "Cerezas: el primer Cherry Express de la temporada se trasladó para zarpar desde Valparaíso rumbo a China; la salida está prevista para el lunes 9/11, y el puerto de San Antonio llegó a 90% de su capacidad de almacenamiento durante el paro (BioBioChile)."
+      ],
+      "short": "El petróleo retrocedió desde su máximo y el flete global se modera, pero Ormuz sigue siendo el principal factor de reversión; en Chile, el cuello de botella de San Antonio empieza a normalizarse.",
+      "medium": "Un acuerdo en el Golfo mantendría a la baja combustible y seguros; un nuevo golpe en Ormuz revertiría la caída. Para el Pacífico sudamericano, el ritmo de normalización en San Antonio define los plazos de las próximas semanas.",
+      "action": "Monitorear el Brent y el WCI semanales, la normalización de las colas en San Antonio y los anuncios de GRI y BAF en las rutas Asia–Sudamérica.",
+      "sectors": [
+       "Transporte marítimo",
+       "Energía",
+       "Agroexportación",
+       "Retail",
+       "Minería"
+      ]
+     },
+     "en": {
+      "title": "Brent settles at $98.32 after a 16%+ weekly drop, global freight slips 1% to $4,389/FEU and the San Antonio truckers' strike ends after nine days",
+      "bullets": [
+       "Oil: Brent settled at $98.32 on 6 Nov and WTI at $90.83; Brent fell more than 16% over the week and WTI nearly 13% (CNBC, via FinanceFeeds). Ahead: US CPI on 10 Nov and the OPEC monthly report on 11 Nov.",
+       "Freight: the Drewry WCI fell 1% in week 45 to $4,389/FEU; Shanghai–Los Angeles stayed at $7,539 (flat), Shanghai–New York $9,303 (−3%) and Shanghai–Rotterdam $3,615 (−2%). Drewry expects a further transpacific decline next week (Drewry, 5 Nov).",
+       "Ports and routes: average vessel waiting time in Shanghai eased to 35 hours; about 60% of Asia–Europe capacity now uses Suez, with 53 vessels transiting last week, raising the risk of bunching at European ports. Drewry also flags a possible Los Angeles/Long Beach strike and Hormuz uncertainty.",
+       "Chile: the truckers' strike at San Antonio ended on 6 Nov after nine days, with a deal for an 8% tariff increase plus an adjustment tied to the transport cost index; the port and industrial area are operating again (BioBioChile).",
+       "Cherries: the season's first Cherry Express was moved to sail from Valparaíso to China; departure is expected Monday 9 Nov, and San Antonio port had reached 90% of storage capacity during the strike (BioBioChile)."
+      ],
+      "short": "Oil has retreated from its peak and global freight is cooling, but Hormuz remains the main reversal risk; in Chile, the San Antonio bottleneck is starting to normalise.",
+      "medium": "A Gulf deal would keep fuel and insurance costs falling; a new Hormuz shock would reverse the drop. For the South American Pacific, the pace of recovery at San Antonio will set lead times over the coming weeks.",
+      "action": "Track weekly Brent and WCI, the clearing of queues at San Antonio, and any GRI or BAF announcements on Asia–South America routes.",
+      "sectors": [
+       "Shipping",
+       "Energy",
+       "Agri-exports",
+       "Retail",
+       "Mining"
+      ]
+     },
+     "zh": {
+      "title": "布伦特原油周跌逾16%收于98.32美元，全球运价微降1%至每FEU 4,389美元，圣安东尼奥卡车司机罢工历时九天结束",
+      "bullets": [
+       "石油：11月6日布伦特收于98.32美元，WTI收于90.83美元；本周布伦特下跌逾16%，WTI下跌近13%（CNBC，经FinanceFeeds转引）。后续关注：11月10日美国CPI、11月11日欧佩克月报。",
+       "运价：德鲁里WCI第45周下降1%至每FEU 4,389美元；上海—洛杉矶7,539美元（持平），上海—纽约9,303美元（−3%），上海—鹿特丹3,615美元（−2%）。德鲁里预计下周跨太平洋运价继续下降（德鲁里，11月5日）。",
+       "港口与航线：上海平均船舶等待时间降至35小时；约60%的亚欧运力已重新经苏伊士运河，上周53艘船通过，欧洲港口面临集中到港风险。德鲁里还提示洛杉矶/长滩可能罢工及霍尔木兹的不确定性。",
+       "智利：圣安东尼奥卡车司机罢工于11月6日结束，历时九天，达成运价上调8%并按运输成本指数调整的协议；港口和工业区已恢复运转（BioBioChile）。",
+       "樱桃：本季首艘樱桃专船改为从瓦尔帕莱索驶往中国，预计11月9日（周一）启航；罢工期间圣安东尼奥港仓储一度达到容量的90%（BioBioChile）。"
+      ],
+      "short": "油价自高点回落，全球运价降温，但霍尔木兹仍是最大反转风险；在智利，圣安东尼奥的瓶颈开始缓解。",
+      "medium": "海湾达成协议将使燃油和保险成本继续下降；霍尔木兹再度冲击将逆转跌势。对南美太平洋沿岸而言，圣安东尼奥恢复速度将决定未来数周的交付周期。",
+      "action": "跟踪每周布伦特和WCI、圣安东尼奥排队的消化情况，以及亚洲—南美航线的GRI和BAF公告。",
+      "sectors": [
+       "海运",
+       "能源",
+       "农产品出口",
+       "零售",
+       "矿业"
+      ]
+     }
+    }
+   },
+   "sources": [
+    {
+     "radar": "geo",
+     "title": "Al Jazeera — Trump confirms new US strikes on Iran's Qeshm island (7/11)",
+     "url": "https://www.aljazeera.com/amp/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island"
+    },
+    {
+     "radar": "geo",
+     "title": "Al Jazeera — Iran says US reply to Hormuz plan \"unconvincing\"; Trump confirms strikes (4/11)",
+     "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes"
+    },
+    {
+     "radar": "geo",
+     "title": "CBS News — Iran war live updates: negotiations and midterms (3/11)",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/"
+    },
+    {
+     "radar": "logistics",
+     "title": "Shipping Telegraph — Drewry WCI down 1% in week 45-2026",
+     "url": "https://shippingtelegraph.com/freight-news/drewry-the-world-container-index-decreased-1-this-week-45-2026/"
+    },
+    {
+     "radar": "logistics",
+     "title": "The DCN — World Container Index, 5 November 2026",
+     "url": "https://www.thedcn.com.au/news/world-container-index-5-november-2026"
+    },
+    {
+     "radar": "logistics",
+     "title": "FinanceFeeds — Brent settles at $98.32 after 16% weekly drop (7/11)",
+     "url": "https://financefeeds.com/brent-crude-oil-price-98-32-saturday-week-ahead-us-iran-deal-bets-cpi-10-november-bull-105-bear-93/"
+    },
+    {
+     "radar": "logistics",
+     "title": "BioBioChile — Fin del paro de camioneros en San Antonio (6/11)",
+     "url": "https://biobiochile.cl/noticias/nacional/chile/2026/11/06/de-crisis-a-oportunidad-gobierno-y-exportadores-celebran-fin-del-paro-de-camioneros-en-san-antonio.shtml"
+    },
+    {
+     "radar": "logistics",
+     "title": "BioBioChile — Paro obligó a cambiar zarpe de buque con cerezas hacia China (6/11)",
+     "url": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/11/06/paro-de-camioneros-en-puerto-san-antonio-obligo-a-cambiar-zarpe-de-buque-con-cerezas-hacia-china.shtml"
+    },
+    {
+     "radar": "health",
+     "title": "ECDC — Measles, monitoring European and global outbreaks, monthly update (6/11/2026)",
+     "url": "https://www.ecdc.europa.eu/en/public-health-events/2011-eip-00003/2026-11-06"
+    },
+    {
+     "radar": "health",
+     "title": "WHO — Disease Outbreak News: Yellow fever, WHO African Region (6/11/2026)",
+     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON624"
+    },
+    {
+     "radar": "health",
+     "title": "ECDC — Avian influenza A(H5N1) human cases, United States (3/11/2026)",
+     "url": "https://www.ecdc.europa.eu/en/public-health-events/2024-irv-00003/2026-11-03"
+    },
+    {
+     "radar": "health",
+     "title": "ECDC — Avian influenza A(H9N2), human cases (4/11/2026)",
+     "url": "https://www.ecdc.europa.eu/en/public-health-events/2019-eip-00007/2026-11-04"
+    },
+    {
+     "radar": "health",
+     "title": "ECDC — Dengue worldwide, monthly update (5/11/2026)",
+     "url": "https://www.ecdc.europa.eu/en/public-health-events/2017-eip-00005/2026-11-05"
+    },
+    {
+     "radar": "health",
+     "title": "UKHSA/NaTHNaC — Outbreak surveillance (West Nile USA, 4/11/2026)",
+     "url": "https://travelhealthpro.org.uk/outbreaks"
+    },
+    {
+     "radar": "health",
+     "title": "ECDC — Ebola disease outbreak, Bundibugyo virus (6/11/2026)",
+     "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026/2026-11-06"
+    }
+   ]
+  },
+  {
    "date": "2026-11-06",
    "number": 9,
    "radars": {
