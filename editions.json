@@ -1,6 +1,328 @@
 {
   "editions": [
     {
+      "date": "2026-11-15",
+      "number": 18,
+      "radars": {
+        "geo": {
+          "level": 4,
+          "pt": {
+            "title": "Irã diz que 3 petroleiros bateram em minas em Ormuz e os EUA contestam; a Rússia segue atacando a energia ucraniana e a Ucrânia atinge refinarias",
+            "bullets": [
+              "Ormuz (14/11): a Marinha e a Guarda Revolucionária do Irã dizem que 3 petroleiros atingiram minas e pegaram fogo ao usar rotas não autorizadas. Os EUA contestam e afirmam que as rotas principais foram limpas e estão abertas (FinanceFeeds, 14–15/11). A alegação iraniana não foi confirmada por fonte independente.",
+              "Tráfego e vidas: o UKMTO estima o tráfego em Ormuz cerca de 65% abaixo do nível pré-guerra. A ONU disse em 14/11 que 25 marinheiros morreram dentro e ao redor do estreito desde o início da guerra, em fevereiro (FinanceFeeds, 14–15/11).",
+              "Diplomacia: o Irã discute com mediadores do Catar e do Paquistão um plano de 2 dias para reabrir Ormuz, condicionado a levantar sanções e reduzir a presença militar dos EUA (Al Jazeera, 1/11). Em 13/11, Trump escreveu que \"não precisamos de um acordo\" e o bloqueio naval segue. Em 12/11, os houthis afirmaram ter atacado o oleoduto Leste-Oeste e Yanbu; a Arábia Saudita não confirmou danos.",
+              "Rússia–Ucrânia (ISW, 9/11): a Rússia lançou 317 drones na noite de 8 para 9/11 e fez só 140 ataques no front em 9/11, o menor número diário desde agosto. A Ucrânia relata 128 ataques russos à energia em uma semana, com 219 danos. A Ucrânia atingiu a refinaria de Kirishi, o 8º ataque a refinarias russas desde 30/10.",
+              "Economia russa (ISW, 9/11): a presidente do Banco Central, Nabiullina, disse que os juros não devem cair rápido; 28% dos tomadores de crédito tinham dificuldade para pagar em agosto e o déficit previsto é de 1,9% a 2,2% do PIB em 2027–2029."
+            ],
+            "short": "Risco crítico no Golfo: o estreito segue com tráfego muito baixo, sem acordo à vista e com novas alegações de minas e ataques.",
+            "medium": "O quadro é de \"nem guerra, nem paz\" e pode mudar em semanas. Na Ucrânia, os ataques à energia e às refinarias continuam, sem acordo de paz.",
+            "action": "Acompanhe Ormuz, o Golfo e a Ucrânia todos os dias. Para cargas com rota ou escala no Oriente Médio, confirme cobertura de seguro, prazos e custo de combustível antes de fechar a reserva.",
+            "sectors": [
+              "Energia",
+              "Transporte marítimo",
+              "Seguros",
+              "Petróleo e gás",
+              "Comércio exterior"
+            ]
+          },
+          "es": {
+            "title": "Irán dice que 3 petroleros chocaron con minas en Ormuz y EE.UU. lo cuestiona; Rusia sigue atacando la energía ucraniana y Ucrania golpea refinerías",
+            "bullets": [
+              "Ormuz (14/11): la Armada y la Guardia Revolucionaria de Irán dicen que 3 petroleros chocaron con minas y se incendiaron al usar rutas no autorizadas. EE.UU. lo cuestiona y afirma que las rutas principales fueron despejadas y están abiertas (FinanceFeeds, 14–15/11). La versión iraní no fue confirmada por una fuente independiente.",
+              "Tráfico y vidas: el UKMTO estima el tráfico en Ormuz cerca de 65% bajo el nivel previo a la guerra. La ONU dijo el 14/11 que 25 marinos han muerto dentro y alrededor del estrecho desde que comenzó la guerra, en febrero (FinanceFeeds, 14–15/11).",
+              "Diplomacia: Irán conversa con mediadores de Catar y Pakistán un plan de 2 días para reabrir Ormuz, condicionado a levantar sanciones y reducir la presencia militar de EE.UU. (Al Jazeera, 1/11). El 13/11, Trump escribió que \"no necesitamos un acuerdo\" y el bloqueo naval continúa. El 12/11, los hutíes afirmaron haber atacado el oleoducto Este-Oeste y Yanbu; Arabia Saudita no confirmó daños.",
+              "Rusia–Ucrania (ISW, 9/11): Rusia lanzó 317 drones la noche del 8 al 9/11 e hizo solo 140 ataques en el frente el 9/11, la cifra diaria más baja desde agosto. Ucrania reporta 128 ataques rusos a la energía en una semana, con 219 daños. Ucrania golpeó la refinería de Kirishi, el 8º ataque a refinerías rusas desde el 30/10.",
+              "Economía rusa (ISW, 9/11): la presidenta del Banco Central, Nabiullina, dijo que las tasas no deben bajar rápido; 28% de los deudores tenía dificultades para pagar en agosto y el déficit previsto es de 1,9% a 2,2% del PIB en 2027–2029."
+            ],
+            "short": "Riesgo crítico en el Golfo: el estrecho sigue con muy poco tráfico, sin acuerdo a la vista y con nuevas denuncias de minas y ataques.",
+            "medium": "El escenario es de \"ni guerra ni paz\" y puede cambiar en semanas. En Ucrania, los ataques a la energía y a las refinerías continúan, sin acuerdo de paz.",
+            "action": "Siga Ormuz, el Golfo y Ucrania todos los días. Para cargas con ruta o escala en Medio Oriente, confirme la cobertura de seguro, los plazos y el costo del combustible antes de cerrar la reserva.",
+            "sectors": [
+              "Energía",
+              "Transporte marítimo",
+              "Seguros",
+              "Petróleo y gas",
+              "Comercio exterior"
+            ]
+          },
+          "en": {
+            "title": "Iran says 3 tankers hit mines in Hormuz and the US disputes it; Russia keeps striking Ukrainian energy while Ukraine hits refineries",
+            "bullets": [
+              "Hormuz (14/11): Iran's navy and Revolutionary Guards say 3 tankers hit mines and caught fire after using unauthorised routes. The US disputes this and says the main routes have been cleared and are open (FinanceFeeds, 14–15/11). The Iranian claim has not been independently confirmed.",
+              "Traffic and lives: UKMTO puts Hormuz traffic about 65% below pre-war levels. The UN said on 14/11 that 25 seafarers have died in and around the strait since the war began in February (FinanceFeeds, 14–15/11).",
+              "Diplomacy: Iran is discussing a 2-day plan to reopen Hormuz with Qatari and Pakistani mediators, conditional on lifting sanctions and reducing the US military presence (Al Jazeera, 1/11). On 13/11 Trump wrote \"we don't need a deal\" and the naval blockade continues. On 12/11 the Houthis claimed attacks on the East-West pipeline and Yanbu; Saudi Arabia has not confirmed damage.",
+              "Russia–Ukraine (ISW, 9/11): Russia launched 317 drones overnight on 8–9/11 and made only 140 frontline attacks on 9/11, the lowest daily count since August. Ukraine reports 128 Russian strikes on energy in a week, with 219 cases of damage. Ukraine hit the Kirishi refinery, the 8th strike on Russian refineries since 30/10.",
+              "Russian economy (ISW, 9/11): Central Bank Governor Nabiullina said rates should not be cut quickly; 28% of borrowers struggled to service loans in August and the forecast deficit is 1.9%–2.2% of GDP in 2027–2029."
+            ],
+            "short": "Critical risk in the Gulf: the strait still has very little traffic, no deal is in sight, and new mine and attack claims keep coming.",
+            "medium": "The picture is \"no war, no peace\" and could shift within weeks. In Ukraine, strikes on energy and refineries continue with no peace deal.",
+            "action": "Follow Hormuz, the Gulf and Ukraine every day. For cargo routed or transhipped through the Middle East, confirm insurance cover, transit times and fuel cost before booking.",
+            "sectors": [
+              "Energy",
+              "Maritime shipping",
+              "Insurance",
+              "Oil & gas",
+              "Foreign trade"
+            ]
+          },
+          "zh": {
+            "title": "伊朗称3艘油轮在霍尔木兹触雷，美方不认同；俄罗斯继续打击乌克兰能源设施，乌克兰袭击炼油厂",
+            "bullets": [
+              "霍尔木兹（11月14日）：伊朗海军和革命卫队称，3艘油轮因走未经授权的航线触雷起火。美方不认同，称主要航道已清雷并开放（FinanceFeeds，11月14–15日）。伊朗的说法尚无独立来源证实。",
+              "通航与人员：英国海上贸易行动办公室（UKMTO）估计，霍尔木兹通航量比战前低约65%。联合国11月14日表示，自2月战争开始以来，已有25名海员在海峡及周边死亡（FinanceFeeds，11月14–15日）。",
+              "外交：伊朗正与卡塔尔和巴基斯坦调解人讨论一项为期2天的重开霍尔木兹计划，条件是解除制裁并减少美军存在（半岛电视台，11月1日）。11月13日，特朗普写道“我们不需要协议”，海上封锁继续。11月12日，胡塞武装声称袭击东西输油管道和延布；沙特未证实受损。",
+              "俄乌（战争研究所ISW，11月9日）：俄罗斯在11月8–9日夜间发射317架无人机，11月9日前线仅发动140次进攻，为8月以来单日最低。乌克兰称一周内俄方对能源设施发动128次打击，造成219处损坏。乌克兰袭击了基里希炼油厂，这是10月30日以来第8次打击俄罗斯炼油厂。",
+              "俄罗斯经济（ISW，11月9日）：央行行长纳比乌琳娜表示利率不应快速下调；8月有28%的借款人还款困难，预计2027–2029年赤字占GDP的1.9%至2.2%。"
+            ],
+            "short": "海湾风险严峻：海峡通航量仍很低，看不到协议，水雷和袭击的新说法不断出现。",
+            "medium": "局势是“不战不和”，数周内可能变化。乌克兰方面，能源设施和炼油厂的打击仍在继续，没有和平协议。",
+            "action": "每天关注霍尔木兹、海湾和乌克兰。经中东航线或中转的货物，订舱前请确认保险保障、时效和燃油成本。",
+            "sectors": [
+              "能源",
+              "海运",
+              "保险",
+              "油气",
+              "对外贸易"
+            ]
+          }
+        },
+        "health": {
+          "level": 4,
+          "pt": {
+            "title": "Ebola Bundibugyo na RD Congo passa de 11.100 casos e a AP fala em surto \"fora de controle\" após 6 meses; gripe aviária H5N1 tem 3 casos em Yakima (EUA)",
+            "bullets": [
+              "Ebola (Bundibugyo), RD Congo — EM CRESCIMENTO: 11.114 casos confirmados e 5.433 mortes até 10/11, em 67 de 178 zonas de saúde de 8 das 26 províncias (ECDC, 12/11). Foram +72 casos e +46 mortes desde a atualização anterior. Segundo a AP (15/11), quase metade dos infectados morreu e é o surto de Ebola mais espalhado geograficamente já registrado.",
+              "Controle: o Africa CDC diz que 80% dos casos novos são detectados fora da vigilância, e um terço das mortes ocorre em casa ou na comunidade (AP, 15/11). O acompanhamento de contatos está em 85,5% (ECDC). Crianças foram 35% das mortes até 4/11 (UNICEF); entre os menores de 5 anos infectados, cerca de 72% morreram. A MSF aponta uma \"desconexão preocupante\" entre recursos arrecadados e o que chega a pacientes.",
+              "Fora do Congo: Quênia com 9 casos e 2 mortes, último caso em 20/10, e todos os contatos concluíram os 21 dias; Nigéria com 1 caso (20/10), evacuado para a Suíça em 26/10, e 52 de 62 contatos já concluíram a quarentena em 11/11 (ECDC). Uganda declarou o fim do seu surto em 27/8. Risco para quem vive na UE/EEE: muito baixo (ECDC).",
+              "Gripe aviária H5N1, EUA — EM CRESCIMENTO local: 3 casos humanos no condado de Yakima (Washington) desde 15/10, um fatal (trabalhador de laticínio), todos ligados a gado leiteiro. Desde abril de 2024 são 74 casos humanos de H5 em 13 estados, com 3 mortes, sem contar Yakima (ECDC, 5/11). Risco para o público em geral: baixo (CDC, ECDC); transmissão entre pessoas é rara.",
+              "Gripe suína H1N1v, Brasil — caso isolado: 1 caso confirmado em Santa Catarina, mulher adulta que morreu em 28/8, notificado em 30/9; sem novos casos e 4 contatos domiciliares tratados. A OMS avalia o risco global como baixo (UKHSA, 1/11)."
+            ],
+            "short": "Risco muito alto na RD Congo e alto nos vizinhos; baixo no resto do mundo. Casos exportados seguem raros e acompanhados.",
+            "medium": "O Ebola só cede com rastreio de contatos, acesso seguro e recursos que cheguem a quem precisa. Na gripe aviária, o risco está em quem lida com gado e aves.",
+            "action": "Na região do Ebola: evite contato com sangue e fluidos de doentes ou falecidos, não manipule corpos, lave as mãos e procure atendimento ao primeiro sintoma. Longe dela: mantenha a vacinação em dia; quem trabalha com gado ou aves deve usar proteção e não tocar em animais doentes; evite leite cru.",
+            "sectors": [
+              "Saúde pública",
+              "Aviação e viagens",
+              "Logística humanitária",
+              "Agronegócio",
+              "Farmacêutico"
+            ]
+          },
+          "es": {
+            "title": "Ébola Bundibugyo en RD Congo supera los 11.100 casos y la AP habla de un brote \"fuera de control\" tras 6 meses; influenza aviar H5N1 suma 3 casos en Yakima (EE.UU.)",
+            "bullets": [
+              "Ébola (Bundibugyo), RD Congo — EN AUMENTO: 11.114 casos confirmados y 5.433 muertes hasta el 10/11, en 67 de 178 zonas de salud de 8 de las 26 provincias (ECDC, 12/11). Son +72 casos y +46 muertes desde la actualización anterior. Según la AP (15/11), casi la mitad de los infectados murió y es el brote de ébola más extendido geográficamente jamás registrado.",
+              "Control: el Africa CDC dice que 80% de los casos nuevos se detecta fuera de la vigilancia y que un tercio de las muertes ocurre en casa o en la comunidad (AP, 15/11). El seguimiento de contactos está en 85,5% (ECDC). Los niños fueron 35% de las muertes hasta el 4/11 (UNICEF); entre los menores de 5 años infectados, cerca de 72% murió. MSF señala una \"desconexión preocupante\" entre los recursos recaudados y lo que llega a los pacientes.",
+              "Fuera del Congo: Kenia con 9 casos y 2 muertes, último caso el 20/10, y todos los contactos completaron los 21 días; Nigeria con 1 caso (20/10), evacuado a Suiza el 26/10, y 52 de 62 contactos ya completaron la cuarentena al 11/11 (ECDC). Uganda declaró el fin de su brote el 27/8. Riesgo para quienes viven en la UE/EEE: muy bajo (ECDC).",
+              "Influenza aviar H5N1, EE.UU. — EN AUMENTO local: 3 casos humanos en el condado de Yakima (Washington) desde el 15/10, uno fatal (trabajador lechero), todos ligados a ganado lechero. Desde abril de 2024 son 74 casos humanos de H5 en 13 estados, con 3 muertes, sin contar Yakima (ECDC, 5/11). Riesgo para el público general: bajo (CDC, ECDC); la transmisión entre personas es rara.",
+              "Influenza porcina H1N1v, Brasil — caso aislado: 1 caso confirmado en Santa Catarina, una mujer adulta que murió el 28/8, notificado el 30/9; sin nuevos casos y 4 contactos del hogar tratados. La OMS evalúa el riesgo global como bajo (UKHSA, 1/11)."
+            ],
+            "short": "Riesgo muy alto en RD Congo y alto en los vecinos; bajo en el resto del mundo. Los casos exportados siguen siendo raros y vigilados.",
+            "medium": "El ébola solo cede con rastreo de contactos, acceso seguro y recursos que lleguen a quien los necesita. En la influenza aviar, el riesgo está en quienes trabajan con ganado y aves.",
+            "action": "En la región del ébola: evite el contacto con sangre y fluidos de enfermos o fallecidos, no manipule cuerpos, lávese las manos y busque atención al primer síntoma. Lejos de ella: mantenga las vacunas al día; quien trabaja con ganado o aves debe usar protección y no tocar animales enfermos; evite la leche cruda.",
+            "sectors": [
+              "Salud pública",
+              "Aviación y viajes",
+              "Logística humanitaria",
+              "Agronegocio",
+              "Farmacéutico"
+            ]
+          },
+          "en": {
+            "title": "Bundibugyo Ebola in DR Congo passes 11,100 cases and AP calls the outbreak \"out of control\" after 6 months; H5N1 bird flu adds 3 cases in Yakima (US)",
+            "bullets": [
+              "Ebola (Bundibugyo), DR Congo — GROWING: 11,114 confirmed cases and 5,433 deaths to 10/11, in 67 of 178 health zones across 8 of 26 provinces (ECDC, 12/11). That is +72 cases and +46 deaths since the previous update. AP (15/11) says nearly half of those infected have died and it is the most geographically widespread Ebola outbreak on record.",
+              "Control: Africa CDC says 80% of new cases are detected outside surveillance, and one-third of deaths happen at home or in the community (AP, 15/11). Contact follow-up is at 85.5% (ECDC). Children were 35% of deaths to 4/11 (UNICEF); about 72% of infected under-5s died. MSF points to a \"troubling disconnect\" between resources raised and what reaches patients.",
+              "Outside Congo: Kenya has 9 cases and 2 deaths, last case 20/10, and all contacts finished 21 days; Nigeria has 1 case (20/10), evacuated to Switzerland on 26/10, and 52 of 62 contacts had completed quarantine by 11/11 (ECDC). Uganda declared its outbreak over on 27/8. Risk for people living in the EU/EEA: very low (ECDC).",
+              "H5N1 bird flu, US — GROWING locally: 3 human cases in Yakima County (Washington) since 15/10, one fatal (a dairy worker), all linked to dairy cattle. Since April 2024 there are 74 human H5 cases in 13 states, with 3 deaths, not counting Yakima (ECDC, 5/11). Risk to the general public: low (CDC, ECDC); person-to-person spread is rare.",
+              "Swine flu H1N1v, Brazil — isolated case: 1 confirmed case in Santa Catarina, an adult woman who died on 28/8, reported on 30/9; no further cases and 4 household contacts treated. WHO rates the global risk as low (UKHSA, 1/11)."
+            ],
+            "short": "Very high risk in DR Congo and high in neighbours; low in the rest of the world. Exported cases remain rare and monitored.",
+            "medium": "Ebola only recedes with contact tracing, safe access and resources that reach those who need them. For bird flu, the risk sits with people who handle cattle and poultry.",
+            "action": "In the Ebola region: avoid contact with blood and fluids of sick or deceased people, do not handle bodies, wash hands and seek care at the first symptom. Far from it: keep vaccinations up to date; people working with cattle or birds should wear protection and avoid sick animals; avoid raw milk.",
+            "sectors": [
+              "Public health",
+              "Aviation & travel",
+              "Humanitarian logistics",
+              "Agribusiness",
+              "Pharma"
+            ]
+          },
+          "zh": {
+            "title": "刚果（金）本迪布焦埃博拉超过1.11万例，美联社称半年后疫情“失控”；美国亚基马县H5N1禽流感新增3例",
+            "bullets": [
+              "埃博拉（本迪布焦型），刚果（金）——上升：截至11月10日累计确诊11,114例、死亡5,433例，波及8个省（共26个）、178个卫生区中的67个（ECDC，11月12日）。较上次更新新增72例、46例死亡。美联社（11月15日）称近半数感染者死亡，这是有记录以来地域扩散最广的埃博拉疫情。",
+              "防控：非洲疾控中心称80%的新病例在监测体系之外发现，三分之一的死亡发生在家中或社区（美联社，11月15日）。接触者追踪率为85.5%（ECDC）。截至11月4日，儿童占死亡的35%（联合国儿童基金会）；5岁以下感染儿童约72%死亡。无国界医生指出，筹集的资源与真正到达患者手中的之间“令人担忧地脱节”。",
+              "刚果以外：肯尼亚9例、2人死亡，末例为10月20日，所有接触者已完成21天观察；尼日利亚1例（10月20日），10月26日转运至瑞士，截至11月11日62名接触者中52人已完成隔离（ECDC）。乌干达8月27日宣布疫情结束。欧盟/欧洲经济区居民感染风险：极低（ECDC）。",
+              "H5N1禽流感，美国——局部上升：华盛顿州亚基马县自10月15日以来出现3例人感染，1例死亡（乳牛场工人），均与奶牛有关。2024年4月以来美国13个州共74例人感染H5，3人死亡，不含亚基马（ECDC，11月5日）。对公众风险：低（CDC、ECDC）；人传人少见。",
+              "H1N1v猪流感，巴西——个案：圣卡塔琳娜州1例确诊，为8月28日死亡的成年女性，9月30日通报；无新增病例，4名同住者已接受治疗。世卫组织评估全球风险为低（UKHSA，11月1日）。"
+            ],
+            "short": "刚果（金）风险很高，邻国风险高；世界其他地区风险低。输出病例仍少见，并受到监测。",
+            "medium": "埃博拉要靠接触者追踪、安全通行和真正到位的资源才能缓解。禽流感的风险主要在接触牛和禽类的人群。",
+            "action": "在埃博拉疫区：避免接触病人或死者的血液和体液，不要处理遗体，勤洗手，出现首个症状就就医。在远离疫区的地方：保持疫苗接种；接触牛或禽类的人要做好防护、避开病畜；不要喝生奶。",
+            "sectors": [
+              "公共卫生",
+              "航空与旅行",
+              "人道物流",
+              "农业",
+              "制药"
+            ]
+          }
+        },
+        "logistics": {
+          "level": 3,
+          "pt": {
+            "title": "Brent fecha em US$ 95,84 e cai pela 2ª semana, mas minas em Ormuz pressionam a abertura; tráfego no estreito segue 65% abaixo do normal",
+            "bullets": [
+              "Petróleo (13/11): Brent fechou a US$ 95,84 (+2 centavos) e WTI a US$ 88,56 (-0,2%). O Brent caiu cerca de 2,5% na semana (de US$ 98,32 em 6/11), a 2ª queda semanal seguida; a mínima foi US$ 91,49 na terça, o menor fechamento desde agosto. Em 12/11 tinha subido 3,3% com alegações dos houthis e relatos sobre petroleiros (FinanceFeeds, citando Reuters).",
+              "Próximos dias: os futuros reabrem na noite de domingo (15/11) e devem precificar as alegações de minas. Datas: relatório semanal da EIA em 18/11 e reunião ministerial da OPEP+ em 29/11, que define a política de 2027. A AIE vê o mercado em superávit à medida que as exportações do Golfo se recuperam.",
+              "Risco no mar: o UKMTO estima o tráfego em Ormuz cerca de 65% abaixo do nível pré-guerra, e há 131 incidentes confirmados na região até 9/11 (Green Worldwide). A ONU diz que 25 marinheiros morreram na área desde fevereiro.",
+              "Portos e carga aérea: em Xangai a espera média de navios caiu para cerca de 35 horas (semana de 5/11). Em Los Angeles/Long Beach, a carga que segue por trem ficou em média 7,19 dias no porto em setembro (6,75 em agosto). O frete aéreo à vista subiu 4% na semana e 40% em um ano (WorldACD, 11/11). A Drewry espera mais pressão de baixa nos fretes do Transpacífico.",
+              "América do Sul: Hapag-Lloyd e CMA CGM anunciaram aumento de US$ 1.000 por contêiner da Ásia para a América do Sul, em vigor desde 15/10 (MundoMarítimo, 6/10). Não há dado oficial novo de spot Ásia–América do Sul esta semana; confirme a tarifa vigente com o armador."
+            ],
+            "short": "Petróleo mais baixo na semana, mas o risco de Ormuz pode devolver volatilidade já na abertura de segunda-feira.",
+            "medium": "Se os ataques e as alegações de minas continuarem, combustível e seguro marítimo podem encarecer as rotas Ásia–América Latina, onde os armadores já aplicam reajustes.",
+            "action": "Negocie fretes com cláusula de combustível e validade curta. Antes de fechar a reserva, confirme com o armador GRIs e sobretaxas para a América do Sul e compare com o contrato vigente.",
+            "sectors": [
+              "Transporte marítimo",
+              "Petróleo e gás",
+              "Logística",
+              "Carga aérea",
+              "Portos"
+            ]
+          },
+          "es": {
+            "title": "Brent cierra en US$ 95,84 y cae por 2ª semana, pero las minas en Ormuz presionan la apertura; el tráfico en el estrecho sigue 65% bajo lo normal",
+            "bullets": [
+              "Petróleo (13/11): el Brent cerró en US$ 95,84 (+2 centavos) y el WTI en US$ 88,56 (-0,2%). El Brent cayó cerca de 2,5% en la semana (desde US$ 98,32 el 6/11), la 2ª baja semanal seguida; el mínimo fue US$ 91,49 el martes, el cierre más bajo desde agosto. El 12/11 había subido 3,3% por denuncias de los hutíes y reportes sobre petroleros (FinanceFeeds, citando a Reuters).",
+              "Próximos días: los futuros reabren la noche del domingo (15/11) y deberían reflejar las denuncias de minas. Fechas: informe semanal de la EIA el 18/11 y reunión ministerial de la OPEP+ el 29/11, que define la política de 2027. La AIE ve el mercado en superávit a medida que se recuperan las exportaciones del Golfo.",
+              "Riesgo en el mar: el UKMTO estima el tráfico en Ormuz cerca de 65% bajo el nivel previo a la guerra, y hay 131 incidentes confirmados en la región hasta el 9/11 (Green Worldwide). La ONU dice que 25 marinos han muerto en la zona desde febrero.",
+              "Puertos y carga aérea: en Shanghái la espera promedio de buques bajó a unas 35 horas (semana del 5/11). En Los Ángeles/Long Beach, la carga que sigue por tren permaneció en promedio 7,19 días en puerto en septiembre (6,75 en agosto). El flete aéreo spot subió 4% en la semana y 40% en un año (WorldACD, 11/11). Drewry espera más presión a la baja en los fletes del Transpacífico.",
+              "Sudamérica: Hapag-Lloyd y CMA CGM anunciaron un alza de US$ 1.000 por contenedor de Asia a Sudamérica, vigente desde el 15/10 (MundoMarítimo, 6/10). No hay dato oficial nuevo de spot Asia–Sudamérica esta semana; confirme la tarifa vigente con la naviera."
+            ],
+            "short": "Petróleo más bajo en la semana, pero el riesgo en Ormuz puede devolver volatilidad desde la apertura del lunes.",
+            "medium": "Si los ataques y las denuncias de minas continúan, el combustible y el seguro marítimo pueden encarecer las rutas Asia–América Latina, donde las navieras ya aplican alzas.",
+            "action": "Negocie fletes con cláusula de combustible y validez corta. Antes de cerrar la reserva, confirme con la naviera los GRI y recargos hacia Sudamérica y compárelos con el contrato vigente.",
+            "sectors": [
+              "Transporte marítimo",
+              "Petróleo y gas",
+              "Logística",
+              "Carga aérea",
+              "Puertos"
+            ]
+          },
+          "en": {
+            "title": "Brent settles at $95.84 and falls for a 2nd week, but mine claims in Hormuz pressure the open; strait traffic stays 65% below normal",
+            "bullets": [
+              "Oil (13/11): Brent settled at $95.84 (+2 cents) and WTI at $88.56 (-0.2%). Brent fell about 2.5% on the week (from $98.32 on 6/11), a 2nd straight weekly loss; the low was $91.49 on Tuesday, the lowest settlement since August. On 12/11 it had jumped 3.3% on Houthi claims and tanker reports (FinanceFeeds, citing Reuters).",
+              "Coming days: futures reopen on Sunday evening (15/11) and should price in the mine claims. Dates: the EIA weekly report on 18/11 and the OPEC+ ministerial meeting on 29/11, which sets 2027 policy. The IEA sees the market in surplus as Gulf exports recover.",
+              "Risk at sea: UKMTO puts Hormuz traffic about 65% below pre-war levels, and there are 131 confirmed incidents in the region to 9/11 (Green Worldwide). The UN says 25 seafarers have died in the area since February.",
+              "Ports and air cargo: in Shanghai the average vessel wait fell to about 35 hours (week of 5/11). At Los Angeles/Long Beach, rail-bound containers averaged 7.19 days of dwell in September (6.75 in August). Air cargo spot rates rose 4% on the week and 40% on the year (WorldACD, 11/11). Drewry expects more downward pressure on Transpacific rates.",
+              "South America: Hapag-Lloyd and CMA CGM announced a $1,000 per container increase from Asia to South America, effective 15/10 (MundoMarítimo, 6/10). There is no new official Asia–South America spot data this week; confirm the current tariff with your carrier."
+            ],
+            "short": "Oil is lower on the week, but Hormuz risk could bring volatility back at Monday's open.",
+            "medium": "If attacks and mine claims continue, fuel and marine insurance could make Asia–Latin America routes costlier, where carriers are already applying increases.",
+            "action": "Negotiate freight with a fuel clause and short validity. Before booking, confirm GRIs and surcharges to South America with your carrier and compare with the current contract.",
+            "sectors": [
+              "Maritime shipping",
+              "Oil & gas",
+              "Logistics",
+              "Air cargo",
+              "Ports"
+            ]
+          },
+          "zh": {
+            "title": "布伦特收于95.84美元，连续第二周下跌，但霍尔木兹水雷说法给开盘带来压力；海峡通航量仍比正常低65%",
+            "bullets": [
+              "石油（11月13日）：布伦特收于95.84美元（+2美分），WTI收于88.56美元（-0.2%）。布伦特本周下跌约2.5%（11月6日为98.32美元），连续第二周下跌；周二低点91.49美元，为8月以来最低收盘价。11月12日曾因胡塞武装的说法和油轮报道上涨3.3%（FinanceFeeds，引用路透社）。",
+              "接下来几天：期货周日（11月15日）晚间重新开盘，预计会反映水雷说法。关键日期：11月18日EIA周报，11月29日OPEC+部长级会议（决定2027年政策）。国际能源署认为，随着海湾出口恢复，市场处于过剩。",
+              "海上风险：UKMTO估计霍尔木兹通航量比战前低约65%，截至11月9日该地区有131起已确认事件（Green Worldwide）。联合国称，2月以来该海域已有25名海员死亡。",
+              "港口与空运：上海船舶平均等待时间降至约35小时（11月5日当周）。洛杉矶/长滩港9月铁路转运集装箱平均滞留7.19天（8月为6.75天）。空运现货价格周环比上涨4%，同比上涨40%（WorldACD，11月11日）。德鲁里预计跨太平洋运价仍有下行压力。",
+              "南美：赫伯罗特和达飞宣布亚洲至南美每箱上涨1,000美元，自10月15日起生效（MundoMarítimo，10月6日）。本周没有亚洲至南美现货的新官方数据；请向船公司确认现行运价。"
+            ],
+            "short": "本周油价走低，但霍尔木兹风险可能在周一开盘时带来波动。",
+            "medium": "如果袭击和水雷说法持续，燃油和海上保险可能推高亚洲至拉美航线成本，而船公司已在涨价。",
+            "action": "谈运价时加入燃油条款并缩短有效期。订舱前向船公司确认南美航线的GRI和附加费，并与现行合同对比。",
+            "sectors": [
+              "海运",
+              "油气",
+              "物流",
+              "空运",
+              "港口"
+            ]
+          }
+        }
+      },
+      "sources": [
+        {
+          "radar": "geo",
+          "title": "FinanceFeeds — Brent, Iran mine claims and Hormuz traffic (14–15/11)",
+          "url": "https://financefeeds.com/brent-crude-oil-price-95-84-sunday-futures-open-week-ahead-iran-mine-claims-bull-98-bear-91/"
+        },
+        {
+          "radar": "geo",
+          "title": "Al Jazeera — Mediators continue US-Iran negotiations: what we know (1/11)",
+          "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know"
+        },
+        {
+          "radar": "geo",
+          "title": "Al Jazeera — Why is Trump saying \"no deal necessary\" with Iran (13/11)",
+          "url": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance"
+        },
+        {
+          "radar": "geo",
+          "title": "Institute for the Study of War — Russian Offensive Campaign Assessment, 9 Nov 2026",
+          "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-9-2026"
+        },
+        {
+          "radar": "health",
+          "title": "ECDC — Ebola disease outbreak caused by Bundibugyo virus (update 12/11)",
+          "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026/2026-11-12"
+        },
+        {
+          "radar": "health",
+          "title": "AP via WSLS — Ebola outbreak remains out of control in Congo 6 months into response (15/11)",
+          "url": "https://www.wsls.com/health/2026/11/15/ebola-outbreak-remains-out-of-control-in-congo-6-months-into-response/"
+        },
+        {
+          "radar": "health",
+          "title": "ECDC — Avian influenza A(H5N1) human cases (update 9/11)",
+          "url": "https://www.ecdc.europa.eu/en/public-health-events/2024-irv-00003/2026-11-09"
+        },
+        {
+          "radar": "health",
+          "title": "UKHSA — Outbreaks under monitoring, week 44 (ending 1/11)",
+          "url": "https://www.gov.uk/government/publications/outbreaks-under-monitoring-in-2026/outbreaks-under-monitoring-week-44-week-ending-1-november-2026"
+        },
+        {
+          "radar": "health",
+          "title": "Contagion Live — Washington reports first US avian influenza death of 2026 in Yakima County (2/11)",
+          "url": "https://www.contagionlive.com/view/washington-reports-first-us-avian-influenza-death-of-2026-in-yakima-county"
+        },
+        {
+          "radar": "logistics",
+          "title": "FinanceFeeds — Brent settles $95.84 after second weekly loss (13–15/11)",
+          "url": "https://financefeeds.com/brent-crude-oil-price-95-84-sunday-futures-open-week-ahead-iran-mine-claims-bull-98-bear-91/"
+        },
+        {
+          "radar": "logistics",
+          "title": "Green Worldwide — Freight Market Update, week 46 (11/11)",
+          "url": "https://www.greenworldwide.com/freight-market-update-week-46-2026/"
+        },
+        {
+          "radar": "logistics",
+          "title": "MundoMarítimo — Shipping lines announce freight rate increases to Latin America (6/10)",
+          "url": "https://www.mundomaritimo.net/noticias/shipping-lines-announce-freight-rate-increases-to-latin-america-as-rates-on-major-global-routes-trend-downward"
+        },
+        {
+          "radar": "logistics",
+          "title": "Shipping Telegraph — Drewry World Container Index week 46-2026",
+          "url": "https://shippingtelegraph.com/freight-news/drewry-the-world-container-index-decreased-2-this-week-46-2026/"
+        }
+      ]
+    },
+    {
       "date": "2026-11-14",
       "number": 17,
       "radars": {
