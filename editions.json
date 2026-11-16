@@ -1,6 +1,314 @@
 {
   "editions": [
     {
+      "date": "2026-11-16",
+      "number": 19,
+      "radars": {
+        "geo": {
+          "level": 4,
+          "pt": {
+            "title": "Irã ataca base dos EUA no Bahrein e diz que 6 navios pegaram fogo em Ormuz; EUA dizem que as rotas principais estão livres; Brent perto de US$ 96",
+            "bullets": [
+              "Bahrein (15/11): a Guarda Revolucionária diz ter lançado 6 drones contra a base de helicópteros de Riffa. O Bahrein afirma ter interceptado vários ataques. É o 2º ataque iraniano ao país em 3 dias e o primeiro direto desde o início de setembro (Rigzone, 16/11). Na sexta (13/11), o CENTCOM derrubou 2 drones iranianos rumo ao Bahrein.",
+              "Ormuz: a TV estatal iraniana diz que 6 navios pegaram fogo no estreito desde domingo e que 2 petroleiros, um deles um superpetroleiro com mais de 2 milhões de barris, bateram em minas ao usar uma rota sul não autorizada. O UKMTO confirmou um ataque a um petroleiro no Golfo Pérsico, com a tripulação a salvo. Os EUA dizem que as rotas principais estão limpas. As minas não foram confirmadas por fonte independente.",
+              "Diplomacia: o Irã propõe um plano de 2 dias para encerrar as hostilidades e reabrir o estreito, e diz que o próximo passo é dos EUA. O presidente do Parlamento, Ghalibaf, diz que o caminho está aberto se os EUA aceitarem as \"condições lógicas\" do Irã. Teerã descarta limitar o enriquecimento nuclear. Trump não sinalizou retomada imediata dos ataques, mas mantém a opção militar (Rigzone, 16/11).",
+              "Petróleo: Brent a US$ 96,28 na manhã de 16/11 (+0,46% sobre o fechamento de US$ 95,84 de sexta). A AIE vê o 4º trimestre com oferta cerca de 1,7 milhão de barris/dia acima da demanda, o 1º excedente desde fevereiro, e liberações de emergência de cerca de 71 milhões de barris até o fim de fevereiro (FinanceFeeds, 16/11).",
+              "Rússia–Ucrânia (ISW, 9/11, dado mais recente lido): 317 drones russos na noite de 8 para 9/11; 128 ataques à energia ucraniana em uma semana, com 219 danos. A Ucrânia atingiu a refinaria de Kirishi, o 8º ataque a refinarias russas desde 30/10. Nenhum lado avançou em 9/11."
+            ],
+            "short": "Risco alto no Golfo: ataques a navios e à base no Bahrein, com o preço do petróleo segurado por excedente de oferta e conversas de paz.",
+            "medium": "Um acordo de 2 dias para reabrir Ormuz derrubaria o prêmio de risco do petróleo. Mais ataques ou minas confirmadas fariam o contrário e encareceriam seguro e frete.",
+            "action": "Acompanhe os avisos do UKMTO e do CENTCOM antes de fechar rotas ou prazos que passem pelo Golfo. Revise contratos de combustível e cláusulas de risco de guerra.",
+            "sectors": [
+              "Petróleo e gás",
+              "Transporte marítimo",
+              "Seguros",
+              "Energia elétrica",
+              "Defesa"
+            ]
+          },
+          "es": {
+            "title": "Irán ataca base de EE.UU. en Bahréin y dice que 6 buques se incendiaron en Ormuz; EE.UU. afirma que las rutas principales están despejadas; Brent cerca de US$ 96",
+            "bullets": [
+              "Bahréin (15/11): la Guardia Revolucionaria dice haber lanzado 6 drones contra la base de helicópteros de Riffa. Bahréin afirma haber interceptado varios ataques. Es el 2º ataque iraní al país en 3 días y el primero directo desde inicios de septiembre (Rigzone, 16/11). El viernes (13/11), el CENTCOM derribó 2 drones iraníes rumbo a Bahréin.",
+              "Ormuz: la TV estatal iraní dice que 6 buques se incendiaron en el estrecho desde el domingo y que 2 petroleros, uno de ellos un superpetrolero con más de 2 millones de barriles, chocaron con minas al usar una ruta sur no autorizada. El UKMTO confirmó un ataque a un petrolero en el Golfo Pérsico, con la tripulación a salvo. EE.UU. dice que las rutas principales están limpias. Las minas no fueron confirmadas por una fuente independiente.",
+              "Diplomacia: Irán propone un plan de 2 días para terminar las hostilidades y reabrir el estrecho, y dice que el próximo paso es de EE.UU. El presidente del Parlamento, Ghalibaf, afirma que el camino está abierto si EE.UU. acepta las \"condiciones lógicas\" de Irán. Teherán descarta limitar el enriquecimiento nuclear. Trump no ha señalado una reanudación inmediata de los ataques, pero mantiene la opción militar (Rigzone, 16/11).",
+              "Petróleo: Brent a US$ 96,28 en la mañana del 16/11 (+0,46% sobre el cierre de US$ 95,84 del viernes). La AIE ve el 4º trimestre con oferta unos 1,7 millones de barriles/día sobre la demanda, el 1er excedente desde febrero, y liberaciones de emergencia de unos 71 millones de barriles hasta fines de febrero (FinanceFeeds, 16/11).",
+              "Rusia–Ucrania (ISW, 9/11, dato más reciente leído): 317 drones rusos en la noche del 8 al 9/11; 128 ataques a la energía ucraniana en una semana, con 219 daños. Ucrania golpeó la refinería de Kirishi, el 8º ataque a refinerías rusas desde el 30/10. Ningún bando avanzó el 9/11."
+            ],
+            "short": "Riesgo alto en el Golfo: ataques a buques y a la base en Bahréin; el petróleo se contiene por el exceso de oferta y las conversaciones de paz.",
+            "medium": "Un acuerdo de 2 días para reabrir Ormuz bajaría la prima de riesgo del petróleo. Más ataques o minas confirmadas harían lo contrario y encarecerían seguro y flete.",
+            "action": "Siga los avisos del UKMTO y del CENTCOM antes de cerrar rutas o plazos que pasen por el Golfo. Revise contratos de combustible y cláusulas de riesgo de guerra.",
+            "sectors": [
+              "Petróleo y gas",
+              "Transporte marítimo",
+              "Seguros",
+              "Energía eléctrica",
+              "Defensa"
+            ]
+          },
+          "en": {
+            "title": "Iran strikes a US base in Bahrain and says 6 ships caught fire in Hormuz; the US says main routes are clear; Brent near $96",
+            "bullets": [
+              "Bahrain (15/11): the Revolutionary Guard says it launched 6 drones at the Riffa helicopter base. Bahrain says it intercepted several attacks. It is Iran's 2nd attack on the country in 3 days and the first direct one since early September (Rigzone, 16/11). On Friday (13/11), CENTCOM shot down 2 Iranian drones headed for Bahrain.",
+              "Hormuz: Iranian state TV says 6 ships have caught fire in the strait since Sunday and that 2 tankers, one a supertanker with over 2 million barrels, hit mines on an unauthorized southern route. UKMTO confirmed an attack on a tanker in the Persian Gulf, crew safe. The US says the main routes are clear. The mine claims are not independently confirmed.",
+              "Diplomacy: Iran proposes a 2-day plan to end hostilities and reopen the strait, and says the next step is up to the US. Parliament Speaker Ghalibaf says the path is open if the US accepts Iran's \"logical conditions\". Tehran rules out limits on nuclear enrichment. Trump has signaled no immediate return to strikes but keeps the military option open (Rigzone, 16/11).",
+              "Oil: Brent at $96.28 on the morning of 16/11 (+0.46% on Friday's $95.84 settlement). The IEA sees Q4 supply about 1.7 million barrels/day above demand, the first surplus since February, and emergency stock releases of about 71 million barrels through end-February (FinanceFeeds, 16/11).",
+              "Russia–Ukraine (ISW, 9/11, latest read): 317 Russian drones overnight on 8–9/11; 128 attacks on Ukrainian energy in one week, with 219 cases of damage. Ukraine hit the Kirishi refinery, the 8th strike on Russian refineries since 30/10. Neither side advanced on 9/11."
+            ],
+            "short": "High risk in the Gulf: attacks on ships and on the base in Bahrain, with oil held in check by a supply surplus and peace talks.",
+            "medium": "A 2-day deal to reopen Hormuz would cut the oil risk premium. More attacks or confirmed mines would do the opposite and raise insurance and freight costs.",
+            "action": "Watch UKMTO and CENTCOM notices before fixing routes or deadlines through the Gulf. Review fuel contracts and war-risk clauses.",
+            "sectors": [
+              "Oil and gas",
+              "Shipping",
+              "Insurance",
+              "Power",
+              "Defense"
+            ]
+          },
+          "zh": {
+            "title": "伊朗袭击美国驻巴林基地，称霍尔木兹海峡6艘船起火；美方称主航道畅通；布伦特油价约96美元",
+            "bullets": [
+              "巴林（11月15日）：伊朗革命卫队称向里法直升机基地发射了6架无人机。巴林称拦截了多次袭击。这是伊朗3天内第2次袭击巴林，也是9月初以来首次直接袭击（Rigzone，11月16日）。11月13日（周五），美军中央司令部击落2架飞往巴林的伊朗无人机。",
+              "霍尔木兹：伊朗国家电视台称，自周日起海峡内已有6艘船起火，另有2艘油轮在未经许可的南侧航线触雷，其中一艘是载油超过200万桶的超级油轮。英国海上贸易行动处（UKMTO）确认波斯湾一艘油轮遇袭，船员安全。美方称主航道已清理畅通。水雷一说尚无独立来源证实。",
+              "外交：伊朗提出为期2天的计划，结束敌对行动并重新开放海峡，称下一步取决于美国。议长加利巴夫称，只要美方接受伊朗的\"合理条件\"，和平之路就是敞开的。德黑兰排除限制铀浓缩。特朗普未表示立即恢复打击，但保留军事选项（Rigzone，11月16日）。",
+              "石油：11月16日上午布伦特报96.28美元，较周五收盘价95.84美元上涨0.46%。国际能源署预计第四季度供应比需求高约170万桶/日，是2月以来首次过剩，并有约7100万桶紧急库存释放持续到2月底（FinanceFeeds，11月16日）。",
+              "俄乌（美国战争研究所ISW，11月9日，已读最新数据）：11月8日至9日夜间俄罗斯发射317架无人机；一周内对乌克兰能源设施发动128次袭击，造成219处受损。乌克兰袭击了基里希炼油厂，这是10月30日以来第8次打击俄炼油设施。11月9日双方均无推进。"
+            ],
+            "short": "海湾风险较高：船只和巴林基地遭袭，但供应过剩和和谈传闻抑制了油价。",
+            "medium": "如果达成2天协议重新开放霍尔木兹，石油风险溢价将下降。若袭击增多或水雷被证实，保险和运费将上涨。",
+            "action": "在确定途经海湾的航线或交期前，请关注UKMTO和美军中央司令部的通告。检查燃油合同和战争风险条款。",
+            "sectors": [
+              "石油天然气",
+              "海运",
+              "保险",
+              "电力",
+              "国防"
+            ]
+          }
+        },
+        "health": {
+          "level": 4,
+          "pt": {
+            "title": "Ebola Bundibugyo chega a 11.197 casos confirmados na RD Congo; sarampo nas Américas soma 57.666 casos em 2026, 81 mortes",
+            "bullets": [
+              "Ebola (Bundibugyo), RD Congo — EM CRESCIMENTO: 11.197 casos confirmados e 5.471 mortes até 11/11, em 8 províncias (ECDC, 13/11). Na edição anterior eram 11.114 casos e 5.433 mortes, ou seja, +83 casos e +38 mortes. A transmissão comunitária segue ativa.",
+              "Fora do Congo (ECDC): Quênia teve o 1º caso importado em 6/10 (9 casos no total, sem novos desde 19–20/10). A Nigéria registrou 1 caso em 20/10, evacuado para a Suíça. Um profissional de saúde positivo em 29/9 foi levado aos Países Baixos em 1/10. Uganda declarou o fim do seu surto em 27/8. Segundo a UKHSA, o risco é muito alto na RD Congo, alto nos vizinhos e baixo no resto do mundo.",
+              "Sarampo nas Américas — ALTO, com queda lenta: 57.666 casos confirmados em 17 países e territórios até 31/10 (semana epidemiológica 43), cerca de 4,7 vezes o mesmo período de 2025, e 81 mortes. Guatemala 34.748 casos (53 mortes), México 13.761 (23), EUA 4.852 (3), Peru 2.862 (1) e Canadá 1.126 (OPAS, 6/11).",
+              "Tendência do sarampo: nas semanas 41–42 foram 547 casos novos, 38% menos que os 885 das semanas 39–40, que incluíam 242 casos notificados com atraso. EUA (332), Guatemala (115) e Peru (66) lideraram os casos novos (OPAS, 6/11). Sem dados novos e oficiais hoje sobre gripe aviária H5N1; o último balanço segue o da edição anterior."
+            ],
+            "short": "Risco muito alto na RD Congo e alto nos vizinhos; baixo no resto do mundo. O sarampo segue forte em vários países das Américas.",
+            "medium": "O Ebola só cede com rastreio de contatos e acesso seguro a pacientes. O sarampo se controla com vacinação alta e resposta rápida a cada caso.",
+            "action": "Na região do Ebola: evite contato com sangue e fluidos de doentes ou falecidos, não manipule corpos, lave as mãos e procure atendimento ao primeiro sintoma. Longe dela e nas Américas: confira se você e sua família têm as 2 doses da vacina contra sarampo, especialmente antes de viajar, e procure um serviço de saúde se tiver febre com manchas na pele.",
+            "sectors": [
+              "Saúde pública",
+              "Aviação e viagens",
+              "Mineração na África",
+              "Turismo",
+              "Escolas"
+            ]
+          },
+          "es": {
+            "title": "Ébola Bundibugyo llega a 11.197 casos confirmados en RD Congo; el sarampión en las Américas suma 57.666 casos en 2026, 81 muertes",
+            "bullets": [
+              "Ébola (Bundibugyo), RD Congo — EN AUMENTO: 11.197 casos confirmados y 5.471 muertes hasta el 11/11, en 8 provincias (ECDC, 13/11). En la edición anterior eran 11.114 casos y 5.433 muertes, es decir, +83 casos y +38 muertes. La transmisión comunitaria sigue activa.",
+              "Fuera del Congo (ECDC): Kenia tuvo el 1er caso importado el 6/10 (9 casos en total, sin nuevos desde el 19–20/10). Nigeria registró 1 caso el 20/10, evacuado a Suiza. Un trabajador de salud positivo el 29/9 fue llevado a los Países Bajos el 1/10. Uganda declaró el fin de su brote el 27/8. Según la UKHSA, el riesgo es muy alto en RD Congo, alto en los vecinos y bajo en el resto del mundo.",
+              "Sarampión en las Américas — ALTO, con baja lenta: 57.666 casos confirmados en 17 países y territorios hasta el 31/10 (semana epidemiológica 43), unas 4,7 veces el mismo período de 2025, y 81 muertes. Guatemala 34.748 casos (53 muertes), México 13.761 (23), EE.UU. 4.852 (3), Perú 2.862 (1) y Canadá 1.126 (OPS, 6/11).",
+              "Tendencia del sarampión: en las semanas 41–42 hubo 547 casos nuevos, 38% menos que los 885 de las semanas 39–40, que incluían 242 casos notificados con retraso. EE.UU. (332), Guatemala (115) y Perú (66) lideraron los casos nuevos (OPS, 6/11). Hoy no hay datos oficiales nuevos sobre influenza aviar H5N1; el último balance sigue el de la edición anterior."
+            ],
+            "short": "Riesgo muy alto en RD Congo y alto en los vecinos; bajo en el resto del mundo. El sarampión sigue fuerte en varios países de las Américas.",
+            "medium": "El Ébola solo cede con rastreo de contactos y acceso seguro a los pacientes. El sarampión se controla con alta vacunación y respuesta rápida a cada caso.",
+            "action": "En la región del Ébola: evite el contacto con sangre y fluidos de enfermos o fallecidos, no manipule cuerpos, lávese las manos y consulte ante el primer síntoma. Lejos de ella y en las Américas: verifique que usted y su familia tengan las 2 dosis de la vacuna contra el sarampión, sobre todo antes de viajar, y consulte si tiene fiebre con manchas en la piel.",
+            "sectors": [
+              "Salud pública",
+              "Aviación y viajes",
+              "Minería en África",
+              "Turismo",
+              "Colegios"
+            ]
+          },
+          "en": {
+            "title": "Bundibugyo Ebola reaches 11,197 confirmed cases in DR Congo; measles in the Americas totals 57,666 cases in 2026, 81 deaths",
+            "bullets": [
+              "Ebola (Bundibugyo), DR Congo — GROWING: 11,197 confirmed cases and 5,471 deaths as of 11/11, across 8 provinces (ECDC, 13/11). The previous edition had 11,114 cases and 5,433 deaths, so +83 cases and +38 deaths. Community transmission remains active.",
+              "Outside Congo (ECDC): Kenya had its 1st imported case on 6/10 (9 cases in total, none new since 19–20/10). Nigeria reported 1 case on 20/10, evacuated to Switzerland. A health worker who tested positive on 29/9 was flown to the Netherlands on 1/10. Uganda declared its outbreak over on 27/8. UKHSA rates the risk very high in DR Congo, high in neighbors and low elsewhere.",
+              "Measles in the Americas — HIGH, slowly easing: 57,666 confirmed cases in 17 countries and territories through 31/10 (epidemiological week 43), about 4.7 times the same period in 2025, and 81 deaths. Guatemala 34,748 cases (53 deaths), Mexico 13,761 (23), US 4,852 (3), Peru 2,862 (1) and Canada 1,126 (PAHO, 6/11).",
+              "Measles trend: weeks 41–42 had 547 new cases, 38% fewer than the 885 in weeks 39–40, which included 242 late-reported cases. The US (332), Guatemala (115) and Peru (66) led the new cases (PAHO, 6/11). No new official H5N1 avian flu data today; the latest tally stays as in the previous edition."
+            ],
+            "short": "Very high risk in DR Congo and high in neighbors; low elsewhere. Measles remains strong in several countries of the Americas.",
+            "medium": "Ebola only recedes with contact tracing and safe access to patients. Measles is controlled by high vaccination and fast response to each case.",
+            "action": "In the Ebola region: avoid contact with blood and fluids of the sick or deceased, do not handle bodies, wash hands and seek care at the first symptom. Far away and in the Americas: check that you and your family have both measles vaccine doses, especially before travel, and seek care if you have fever with a rash.",
+            "sectors": [
+              "Public health",
+              "Aviation and travel",
+              "Mining in Africa",
+              "Tourism",
+              "Schools"
+            ]
+          },
+          "zh": {
+            "title": "刚果（金）本迪布焦埃博拉确诊病例达11,197例；美洲2026年麻疹累计57,666例、81人死亡",
+            "bullets": [
+              "埃博拉（本迪布焦型），刚果（金）——上升：截至11月11日确诊11,197例、死亡5,471人，波及8个省（ECDC，11月13日）。上一期为11,114例和5,433人死亡，即新增83例、38人死亡。社区传播仍在持续。",
+              "刚果以外（ECDC）：肯尼亚10月6日出现首例输入病例（累计9例，10月19–20日以来无新增）。尼日利亚10月20日报告1例，已转运至瑞士。一名9月29日检测阳性的医务人员10月1日被送往荷兰。乌干达8月27日宣布疫情结束。英国健康安全局（UKHSA）评估：刚果（金）风险很高，邻国风险高，其他地区风险低。",
+              "美洲麻疹——高位，缓慢回落：截至10月31日（第43个流行病学周），17个国家和地区共确诊57,666例，约为2025年同期的4.7倍，死亡81人。危地马拉34,748例（死亡53人），墨西哥13,761例（23人），美国4,852例（3人），秘鲁2,862例（1人），加拿大1,126例（泛美卫生组织PAHO，11月6日）。",
+              "麻疹趋势：第41–42周新增547例，比第39–40周的885例少38%，后者包含242例迟报病例。新增病例主要来自美国（332）、危地马拉（115）和秘鲁（66）（PAHO，11月6日）。今天没有新的H5N1禽流感官方数据；最新统计仍同上一期。"
+            ],
+            "short": "刚果（金）风险很高，邻国风险高，其他地区风险低。美洲多国麻疹疫情仍然严重。",
+            "medium": "埃博拉只有通过接触者追踪和安全收治才能缓解。麻疹需要高疫苗接种率和对每例病例的快速响应。",
+            "action": "在埃博拉流行地区：避免接触病人或遗体的血液和体液，不要处理遗体，勤洗手，出现首个症状就就医。远离疫区及在美洲：确认您和家人已接种2剂麻疹疫苗，出行前尤其要检查；如发热并出疹，请及时就医。",
+            "sectors": [
+              "公共卫生",
+              "航空与旅行",
+              "非洲矿业",
+              "旅游",
+              "学校"
+            ]
+          }
+        },
+        "logistics": {
+          "level": 3,
+          "pt": {
+            "title": "Brent perto de US$ 96 com Ormuz tenso; Drewry cai 2% para US$ 4.305 e congestionamento em Xangai sobe para 49 horas",
+            "bullets": [
+              "Petróleo (16/11): Brent a US$ 96,28 e WTI perto de US$ 89,1 pela manhã. O Brent caiu cerca de 2,5% na semana passada, a 2ª queda semanal seguida. Datas: relatório semanal da EIA em 18/11 e reunião ministerial da OPEP+ em 29/11, que define a política de 2027 (FinanceFeeds, 16/11).",
+              "Fretes (Drewry WCI, 12/11): índice composto em US$ 4.305 por contêiner de 40 pés (-2% na semana). Xangai–Los Angeles US$ 7.416 (-2%), Xangai–Nova York US$ 9.020 (-3%), Xangai–Roterdã US$ 3.504 (-3%). A Drewry espera nova queda no Transpacífico e leve alta na Ásia–Europa com cancelamentos de escalas e sobretaxas a partir da 2ª quinzena de novembro.",
+              "Portos: a espera média em Xangai subiu para cerca de 49 horas, de 36, e interrompeu 11 semanas de melhora. Estão previstos 8 cancelamentos de escalas na semana no Transpacífico (eram 4). Em Los Angeles/Long Beach, as negociações trabalhistas foram prorrogadas até 20/11, sem greve anunciada (Drewry; Green Worldwide).",
+              "Risco no mar: os ataques e as alegações de minas em Ormuz (ver radar geopolítico) mantêm o prêmio de risco de combustível e seguro. A AIE vê excedente de oferta de petróleo no 4º trimestre, o que alivia o preço.",
+              "América do Sul: não há dado oficial novo de spot Ásia–América do Sul nesta edição. A referência segue o aumento de US$ 1.000 por contêiner anunciado por Hapag-Lloyd e CMA CGM desde 15/10 (MundoMarítimo, 6/10); confirme a tarifa vigente com o armador."
+            ],
+            "short": "Petróleo estável perto de US$ 96 e fretes em queda nas rotas globais, mas portos e Ormuz pedem atenção.",
+            "medium": "A queda dos fretes no Transpacífico pode liberar capacidade para a América do Sul, mas só se o combustível e o risco no Golfo não voltarem a subir.",
+            "action": "Peça cotações com validade curta e cláusula de combustível. Antes de reservar Ásia–América do Sul, confirme GRIs e sobretaxas com o armador e compare com o contrato vigente.",
+            "sectors": [
+              "Transporte marítimo",
+              "Petróleo e gás",
+              "Logística",
+              "Portos",
+              "Comércio exterior"
+            ]
+          },
+          "es": {
+            "title": "Brent cerca de US$ 96 con Ormuz tenso; Drewry baja 2% a US$ 4.305 y la congestión en Shanghái sube a 49 horas",
+            "bullets": [
+              "Petróleo (16/11): Brent a US$ 96,28 y WTI cerca de US$ 89,1 en la mañana. El Brent cayó cerca de 2,5% la semana pasada, la 2ª baja semanal seguida. Fechas: informe semanal de la EIA el 18/11 y reunión ministerial de la OPEP+ el 29/11, que define la política de 2027 (FinanceFeeds, 16/11).",
+              "Fletes (Drewry WCI, 12/11): índice compuesto en US$ 4.305 por contenedor de 40 pies (-2% en la semana). Shanghái–Los Ángeles US$ 7.416 (-2%), Shanghái–Nueva York US$ 9.020 (-3%), Shanghái–Róterdam US$ 3.504 (-3%). Drewry espera nueva baja en el Transpacífico y leve alza en Asia–Europa por cancelaciones de escalas y recargos desde la 2ª quincena de noviembre.",
+              "Puertos: la espera media en Shanghái subió a unas 49 horas, desde 36, y cortó 11 semanas de mejora. Se prevén 8 cancelaciones de escalas en la semana en el Transpacífico (eran 4). En Los Ángeles/Long Beach, las negociaciones laborales se prorrogaron hasta el 20/11, sin huelga anunciada (Drewry; Green Worldwide).",
+              "Riesgo en el mar: los ataques y las denuncias de minas en Ormuz (ver radar geopolítico) mantienen la prima de riesgo de combustible y seguro. La AIE ve exceso de oferta de petróleo en el 4º trimestre, lo que alivia el precio.",
+              "Sudamérica: no hay dato oficial nuevo de spot Asia–Sudamérica en esta edición. La referencia sigue siendo el alza de US$ 1.000 por contenedor anunciada por Hapag-Lloyd y CMA CGM desde el 15/10 (MundoMarítimo, 6/10); confirme la tarifa vigente con la naviera."
+            ],
+            "short": "Petróleo estable cerca de US$ 96 y fletes a la baja en rutas globales, pero puertos y Ormuz piden atención.",
+            "medium": "La baja de fletes en el Transpacífico puede liberar capacidad hacia Sudamérica, pero solo si el combustible y el riesgo en el Golfo no vuelven a subir.",
+            "action": "Pida cotizaciones con validez corta y cláusula de combustible. Antes de reservar Asia–Sudamérica, confirme GRI y recargos con la naviera y compare con el contrato vigente.",
+            "sectors": [
+              "Transporte marítimo",
+              "Petróleo y gas",
+              "Logística",
+              "Puertos",
+              "Comercio exterior"
+            ]
+          },
+          "en": {
+            "title": "Brent near $96 with Hormuz tense; Drewry falls 2% to $4,305 and Shanghai congestion rises to 49 hours",
+            "bullets": [
+              "Oil (16/11): Brent at $96.28 and WTI near $89.1 in the morning. Brent fell about 2.5% last week, its 2nd straight weekly loss. Dates: EIA weekly report on 18/11 and OPEC+ ministerial meeting on 29/11, which sets 2027 policy (FinanceFeeds, 16/11).",
+              "Freight (Drewry WCI, 12/11): composite at $4,305 per 40ft container (-2% on the week). Shanghai–Los Angeles $7,416 (-2%), Shanghai–New York $9,020 (-3%), Shanghai–Rotterdam $3,504 (-3%). Drewry expects a further Transpacific drop and a slight Asia–Europe rise on blank sailings and surcharges from the second half of November.",
+              "Ports: average waiting time at Shanghai rose to about 49 hours from 36, ending an 11-week easing trend. 8 blank sailings are planned for the week on the Transpacific (up from 4). At Los Angeles/Long Beach, labor talks were extended to 20/11, with no strike announced (Drewry; Green Worldwide).",
+              "Sea risk: the attacks and mine claims in Hormuz (see geopolitical radar) keep a fuel and insurance risk premium in place. The IEA sees an oil supply surplus in Q4, which eases prices.",
+              "South America: there is no new official Asia–South America spot data in this edition. The reference remains the $1,000 per container increase announced by Hapag-Lloyd and CMA CGM from 15/10 (MundoMarítimo, 6/10); confirm the current tariff with the carrier."
+            ],
+            "short": "Oil steady near $96 and freight falling on global lanes, but ports and Hormuz need attention.",
+            "medium": "Falling Transpacific rates may free capacity toward South America, but only if fuel and Gulf risk do not rise again.",
+            "action": "Ask for quotes with short validity and a fuel clause. Before booking Asia–South America, confirm GRIs and surcharges with the carrier and compare with the current contract.",
+            "sectors": [
+              "Shipping",
+              "Oil and gas",
+              "Logistics",
+              "Ports",
+              "Foreign trade"
+            ]
+          },
+          "zh": {
+            "title": "霍尔木兹局势紧张，布伦特油价近96美元；德路里指数下跌2%至4,305美元，上海港拥堵升至49小时",
+            "bullets": [
+              "石油（11月16日）：上午布伦特报96.28美元，WTI接近89.1美元。布伦特上周下跌约2.5%，连续第2周下跌。日期：11月18日美国能源信息署（EIA）周报，11月29日欧佩克+部长级会议将确定2027年政策（FinanceFeeds，11月16日）。",
+              "运费（德路里WCI，11月12日）：综合指数每40英尺集装箱4,305美元，周降2%。上海—洛杉矶7,416美元（-2%），上海—纽约9,020美元（-3%），上海—鹿特丹3,504美元（-3%）。德路里预计跨太平洋运价继续下跌，亚欧线因取消航次和11月下半月附加费小幅上涨。",
+              "港口：上海港平均等泊时间从36小时升至约49小时，结束了11周的改善趋势。本周跨太平洋线计划取消8个航次（此前为4个）。洛杉矶/长滩的劳资谈判延至11月20日，尚未宣布罢工（德路里；Green Worldwide）。",
+              "海上风险：霍尔木兹的袭击和水雷说法（见地缘政治雷达）使燃油和保险的风险溢价持续存在。国际能源署预计第四季度石油供应过剩，有助于缓和价格。",
+              "南美：本期没有亚洲—南美现货运价的新官方数据。参考仍是赫伯罗特和达飞自10月15日起宣布的每箱上调1,000美元（MundoMarítimo，10月6日）；请向船公司确认现行运价。"
+            ],
+            "short": "油价稳定在96美元附近，全球航线运价下降，但港口和霍尔木兹需要关注。",
+            "medium": "跨太平洋运价下降可能把运力释放到南美航线，但前提是燃油和海湾风险不再上升。",
+            "action": "要求报价有效期短并带燃油条款。预订亚洲—南美前，请向船公司确认GRI和附加费，并与现行合同对比。",
+            "sectors": [
+              "海运",
+              "石油天然气",
+              "物流",
+              "港口",
+              "对外贸易"
+            ]
+          }
+        }
+      },
+      "sources": [
+        {
+          "radar": "geo",
+          "title": "Rigzone — Iran says door to peace open despite striking Bahrain (16/11)",
+          "url": "https://www.rigzone.com/news/iran_says_door_to_peace_open_despite_striking_bahrain-16-nov-2026-185086-article"
+        },
+        {
+          "radar": "geo",
+          "title": "FinanceFeeds — Brent $96.28 Monday after Iran strikes a US base in Bahrain (16/11)",
+          "url": "https://financefeeds.com/brent-crude-oil-price-96-28-monday-iran-bahrain-strike-bull-98-bear-91/"
+        },
+        {
+          "radar": "geo",
+          "title": "Institute for the Study of War — Russian Offensive Campaign Assessment, 9/11/2026",
+          "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-9-2026"
+        },
+        {
+          "radar": "geo",
+          "title": "Al Jazeera — Mediators continue US-Iran negotiations: what we know (1/11)",
+          "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know"
+        },
+        {
+          "radar": "health",
+          "title": "ECDC — Ebola disease outbreak caused by Bundibugyo virus, update 13/11/2026",
+          "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-EIP-00026"
+        },
+        {
+          "radar": "health",
+          "title": "PAHO/WHO — Measles in the Americas Region, Situation Report #15 (6/11/2026)",
+          "url": "https://www.paho.org/en/documents/situation-report-15-measles-americas-region-6-november-2026"
+        },
+        {
+          "radar": "health",
+          "title": "UKHSA — Outbreaks under monitoring, week 44 (ending 1/11/2026)",
+          "url": "https://www.gov.uk/government/publications/outbreaks-under-monitoring-in-2026/outbreaks-under-monitoring-week-44-week-ending-1-november-2026"
+        },
+        {
+          "radar": "logistics",
+          "title": "FinanceFeeds — Brent $96.28 Monday (16/11)",
+          "url": "https://financefeeds.com/brent-crude-oil-price-96-28-monday-iran-bahrain-strike-bull-98-bear-91/"
+        },
+        {
+          "radar": "logistics",
+          "title": "DCN — Drewry World Container Index, 12/11/2026",
+          "url": "https://www.thedcn.com.au/news/world-container-index-12-november-2026"
+        },
+        {
+          "radar": "logistics",
+          "title": "Green Worldwide — Freight Market Update, week 46 (2026)",
+          "url": "https://www.greenworldwide.com/freight-market-update-week-46-2026/"
+        },
+        {
+          "radar": "logistics",
+          "title": "MundoMarítimo — Shipping lines announce freight rate increases to Latin America (6/10)",
+          "url": "https://www.mundomaritimo.net/noticias/shipping-lines-announce-freight-rate-increases-to-latin-america-as-rates-on-major-global-routes-trend-downward"
+        }
+      ]
+    },
+    {
       "date": "2026-11-15",
       "number": 18,
       "radars": {
@@ -320,7 +628,12 @@
           "title": "Shipping Telegraph — Drewry World Container Index week 46-2026",
           "url": "https://shippingtelegraph.com/freight-news/drewry-the-world-container-index-decreased-2-this-week-46-2026/"
         }
-      ]
+      ],
+      "videos": {
+        "geo": "pWF9-iHqfuo",
+        "health": "MbAEAbFxoMM",
+        "logistics": "0dMvTMnVrc8"
+      }
     },
     {
       "date": "2026-11-14",
