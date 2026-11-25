@@ -156,7 +156,7 @@ footer{border-top:1px solid var(--rule);padding:22px 0 40px;font:13px/1.6 var(--
 </div>
 </main>
 
-<footer>Global Tendencies · Igor Gonçalves · Santiago, Chile · <a class="mailtxt" href="mailto:igor@globaltendencies.app">igor@globaltendencies.app</a> · +56 9 5644 3773 · <a href="privacidad.html" data-k="priv">Privacy</a></footer>
+<footer>Global Tendencies · Igor Gonçalves · Santiago, Chile · <a class="mailtxt" href="mailto:igor@globaltendencies.app">igor@globaltendencies.app</a> · +56 9 5644 3773 · <a class="pdf" href="files/GlobalTendencies_Profile_EN.pdf" target="_blank" rel="noopener">↓ PDF</a> · <a href="privacidad.html" data-k="priv">Privacy</a></footer>
 </div>
 
 <script>
@@ -177,6 +177,7 @@ function set(l){
   var ml="mailto:"+MAIL+"?subject="+encodeURIComponent(SUBJ[l])+"&body="+encodeURIComponent(MSG[l]);
   document.querySelectorAll("a.mail").forEach(function(a){a.href=ml;});
   document.querySelectorAll("a.wa").forEach(function(a){a.href="https://wa.me/"+WA;a.target="_blank";a.rel="noopener";});
+  document.querySelectorAll("a.pdf").forEach(function(a){a.href="files/GlobalTendencies_Profile_"+(l==="zh"?"ZH":"EN")+".pdf";a.textContent=({pt:"↓ Perfil (PDF, inglês)",es:"↓ Perfil (PDF, inglés)",en:"↓ Company profile (PDF)",zh:"↓ 公司简介（PDF）"})[l];});
   document.querySelectorAll(".seg button").forEach(function(b){b.classList.toggle("on",b.getAttribute("data-l")===l);});
   try{history.replaceState(null,"","?lang="+l);}catch(e){}
 }
