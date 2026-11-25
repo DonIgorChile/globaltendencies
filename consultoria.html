@@ -177,7 +177,7 @@ function set(l){
   var ml="mailto:"+MAIL+"?subject="+encodeURIComponent(SUBJ[l])+"&body="+encodeURIComponent(MSG[l]);
   document.querySelectorAll("a.mail").forEach(function(a){a.href=ml;});
   document.querySelectorAll("a.wa").forEach(function(a){a.href="https://wa.me/"+WA;a.target="_blank";a.rel="noopener";});
-  document.querySelectorAll("a.pdf").forEach(function(a){a.href="files/GlobalTendencies_Profile_"+(l==="zh"?"ZH":"EN")+".pdf";a.textContent=({pt:"↓ Perfil (PDF, inglês)",es:"↓ Perfil (PDF, inglés)",en:"↓ Company profile (PDF)",zh:"↓ 公司简介（PDF）"})[l];});
+  document.querySelectorAll("a.pdf").forEach(function(a){a.href="files/GlobalTendencies_Profile_"+l.toUpperCase()+".pdf";a.textContent=({pt:"↓ Perfil da empresa (PDF)",es:"↓ Perfil de la empresa (PDF)",en:"↓ Company profile (PDF)",zh:"↓ 公司简介（PDF）"})[l];});
   document.querySelectorAll(".seg button").forEach(function(b){b.classList.toggle("on",b.getAttribute("data-l")===l);});
   try{history.replaceState(null,"","?lang="+l);}catch(e){}
 }

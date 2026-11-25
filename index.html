@@ -214,7 +214,7 @@ function render(){
   document.querySelectorAll(".langs button").forEach(b=>b.setAttribute("aria-pressed",b.dataset.l===lang));
   $("tagline").textContent=t.tag; $("b-inst").textContent=t.inst; $("b-share").textContent=t.share; $("m-arch").textContent=t.arch; $("m-tz").textContent=t.tz; $("disc").textContent=t.disc;
   {const w=WHAT[lang], box=$("what"); box.innerHTML=""; const d=el("div","t"); d.append(el("p","k",w.k),el("p",null,w.t)); const a=el("a","go",w.b); a.href="consultoria?lang="+lang; box.append(d,a);}
-  {const L={pt:["Perfil da empresa (PDF, em inglês)","EN"],es:["Perfil de la empresa (PDF, en inglés)","EN"],en:["Company profile (PDF)","EN"],zh:["公司简介（PDF）","ZH"]}[lang]; const pl=$("pdfl"); pl.innerHTML=""; const a=el("a",null,"↓ "+L[0]); a.href="files/GlobalTendencies_Profile_"+L[1]+".pdf"; a.target="_blank"; a.rel="noopener"; pl.append(a);}
+  {const L={pt:["Perfil da empresa (PDF)","PT"],es:["Perfil de la empresa (PDF)","ES"],en:["Company profile (PDF)","EN"],zh:["公司简介（PDF）","ZH"]}[lang]; const pl=$("pdfl"); pl.innerHTML=""; const a=el("a",null,"↓ "+L[0]); a.href="files/GlobalTendencies_Profile_"+L[1]+".pdf"; a.target="_blank"; a.rel="noopener"; pl.append(a);}
   if(!DATA) return;
   const ed=DATA.editions[idx];
   $("m-ed").innerHTML=""; const b=el("strong","num",edLabel(ed,lang)); $("m-ed").append(b," · ",fmtDate(ed.date,lang));
