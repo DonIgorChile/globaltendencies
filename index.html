@@ -18,9 +18,7 @@
 <meta name="theme-color" content="#08131F">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Global Tendencies">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,500..800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=JetBrains+Mono:wght@400;600&display=swap">
+<link rel="stylesheet" href="fonts/fonts.css">
 <style>:root{box-sizing:border-box}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
 <style>
 /* Layout: nautical-chart bulletin. Masthead, risk strip, three radar sections in a single reading column. */
@@ -91,6 +89,14 @@ summary{cursor:pointer;font-family:var(--mono);font-size:.76rem;color:var(--mute
 details ol{margin:8px 0 0;padding-left:20px;display:flex;flex-direction:column;gap:4px}
 details a{word-break:break-word}
 
+.gt-what{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px 18px;margin:18px 0 6px;padding:16px 18px;border:1px solid var(--rule);border-left:3px solid #F2C15B;border-radius:12px;background:linear-gradient(90deg,rgba(242,193,91,.08),rgba(17,31,54,.6))}
+.gt-what .k{font:600 11px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:#F2C15B;margin:0 0 4px}
+.gt-what p{margin:0}
+.gt-what .t{max-width:60ch}
+.gt-what a.go{display:inline-flex;align-items:center;min-height:44px;padding:10px 16px;border-radius:10px;background:#F2C15B;color:#0A1424;font:700 14px var(--display);text-decoration:none;white-space:nowrap}
+.r-cta{margin:14px 0 0;padding-top:12px;border-top:1px dashed var(--rule);font-size:.95rem}
+.r-cta a{color:#F2C15B;font-weight:600;text-decoration:none}
+.r-cta a:hover{text-decoration:underline}
 footer{padding-top:24px;display:flex;flex-direction:column;gap:10px;font-size:.86rem;color:var(--muted)}
 .sig{font-family:var(--display);font-stretch:90%;color:var(--ink)}
 .sig b{font-weight:700}
@@ -144,6 +150,7 @@ footer{padding-top:24px;display:flex;flex-direction:column;gap:10px;font-size:.8
   </header>
 
   <nav class="strip" id="strip" aria-label="Risk levels"></nav>
+  <aside class="gt-what" id="what"></aside>
   <main id="main"><p class="status" id="status">…</p></main>
 
   <footer>
@@ -185,6 +192,10 @@ const T={
 for(const k in ADD) Object.assign(T[k],ADD[k]);
 const SUB={pt:["Inscrever-se no canal","Abrir no YouTube"],es:["Suscribirse al canal","Abrir en YouTube"],en:["Subscribe to the channel","Open on YouTube"],zh:["订阅频道","在 YouTube 打开"]};
 for(const k in SUB){T[k].sub=SUB[k][0];T[k].yt=SUB[k][1];}
+const WHAT={pt:{k:"O que fazemos",t:"Inteligência antes da operação: custo posto, entrada em mercado e rotas China–América Latina. Consultoria boutique, um cliente por vez.",b:"Conheça a consultoria →",cta:{geo:"Esse cenário afeta o seu negócio na América Latina? Fale com a gente →",health:"Precisa avaliar o impacto na sua operação ou nos seus embarques? Fale com a gente →",logistics:"Como isso afeta o custo dos seus embarques? Fale com a gente →"}},
+es:{k:"Qué hacemos",t:"Inteligencia antes de la operación: costo puesto, entrada al mercado y rutas China–América Latina. Consultoría boutique, un cliente a la vez.",b:"Conozca la consultoría →",cta:{geo:"¿Este escenario afecta su negocio en América Latina? Hablemos →",health:"¿Necesita evaluar el impacto en su operación o sus embarques? Hablemos →",logistics:"¿Cómo afecta esto el costo de sus embarques? Hablemos →"}},
+en:{k:"What we do",t:"Intelligence before the operation: landed cost, market entry and China–Latin America routes. Boutique consultancy, one client at a time.",b:"Explore our consulting →",cta:{geo:"Does this scenario affect your business in Latin America? Let's talk →",health:"Need to assess the impact on your operation or shipments? Let's talk →",logistics:"How does this affect the cost of your shipments? Let's talk →"}},
+zh:{k:"我们做什么",t:"行动之前，先掌握情报：落地成本、市场进入及中国—拉美航线。精品咨询，同一时间只服务一位客户。",b:"了解咨询服务 →",cta:{geo:"这一局势是否影响您在拉丁美洲的业务？欢迎联系我们 →",health:"需要评估对您的运营或货运的影响？欢迎联系我们 →",logistics:"这会如何影响您的货运成本？欢迎联系我们 →"}}};
 const ORDER=["geo","health","logistics"];
 let DATA=null, lang="en", idx=0;
 // Idioma: escolha salva > idioma do aparelho (pt/es/zh) > ingles
@@ -201,6 +212,7 @@ function render(){
   const t=T[lang]; document.documentElement.lang=lang==="zh"?"zh-CN":lang;
   document.querySelectorAll(".langs button").forEach(b=>b.setAttribute("aria-pressed",b.dataset.l===lang));
   $("tagline").textContent=t.tag; $("b-inst").textContent=t.inst; $("b-share").textContent=t.share; $("m-arch").textContent=t.arch; $("m-tz").textContent=t.tz; $("disc").textContent=t.disc;
+  {const w=WHAT[lang], box=$("what"); box.innerHTML=""; const d=el("div","t"); d.append(el("p","k",w.k),el("p",null,w.t)); const a=el("a","go",w.b); a.href="consultoria?lang="+lang; box.append(d,a);}
   if(!DATA) return;
   const ed=DATA.editions[idx];
   $("m-ed").innerHTML=""; const b=el("strong","num",edLabel(ed,lang)); $("m-ed").append(b," · ",fmtDate(ed.date,lang));
@@ -229,6 +241,7 @@ function render(){
       fr.title=t.r[k]+" · video"; fr.loading="lazy"; fr.allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share"; fr.allowFullscreen=true; fr.referrerPolicy="strict-origin-when-cross-origin";
       f.append(fr); const cap=el("figcaption","yt-cap"); const sub=el("a","btn",t.sub); sub.href="https://www.youtube.com/@IgorIdasEVindas?sub_confirmation=1"; sub.target="_blank"; sub.rel="noopener";
       const yt=el("a","btn ghost",t.yt); yt.href="https://www.youtube.com/shorts/"+id; yt.target="_blank"; yt.rel="noopener"; cap.append(sub,yt); f.append(cap); s.append(f);}
+    {const p=el("p","r-cta"); const a=el("a",null,WHAT[lang].cta[k]); a.href="consultoria?lang="+lang; p.append(a); s.append(p);}
     const src=(ed.sources||[]).filter(x=>x.radar===k);
     if(src.length){const d=el("details"); d.append(el("summary",null,`${t.src} (${src.length})`)); const ol=el("ol");
       src.forEach(x=>{const li=el("li"); const a=el("a",null,x.title); a.href=x.url; a.target="_blank"; a.rel="noopener"; li.append(a); ol.append(li);}); d.append(ol); s.append(d);}
